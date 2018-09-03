@@ -3,6 +3,10 @@
 127.0.0.1  api.sec.miui.com
 127.0.0.1  auth.be.sec.miui.com
 127.0.0.1  analytics.meituan.net
+127.0.0.1  wup.imtt.qq.com
+127.0.0.1  rwport.imtt.qq.com
+127.0.0.1  isdspeed.qq.com
+127.0.0.1  c.isdspeed.qq.com
 127.0.0.1  html5.qq.com
 127.0.0.1  v.html5.qq.com
 127.0.0.1  news.html5.qq.com
@@ -40,13 +44,10 @@
 127.0.0.1  mi.beha.ksmobile.com
 127.0.0.1  report.meituan.com
 127.0.0.1  wl.jd.com
-127.0.0.1  wup.imtt.qq.com
-127.0.0.1  rwport.imtt.qq.com
 127.0.0.1  u.uum6.cn
-127.0.0.1  isdspeed.qq.com
-127.0.0.1  c.isdspeed.qq.com
 127.0.0.1  ls.srvcs.tumblr.com 
 127.0.0.1  geo.yahoo.com
 127.0.0.1  m.yap.yahoo.com  
 127.0.0.1  78.media.tumblr.com
 127.0.0.1  itemifs.tanx.com
+127.0.0.1  api-analytics.huami.com
