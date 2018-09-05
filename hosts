@@ -53,9 +53,6 @@
 127.0.0.1  tanx.com
 127.0.0.1  api-analytics.huami.com
 127.0.0.1  mobile-collector.newrelic.com
-127.0.0.1  api-http2.tumblr.com
-127.0.0.1  ls.srvcs.tumblr.com
-127.0.0.1  78.media.tumblr.com
 127.0.0.1  analytics.query.yahoo.com
 127.0.0.1  geo.yahoo.com
 
