@@ -7,3 +7,7 @@
 127.0.0.1  android.bugly.qq.com
 # PUSH
 127.0.0.1  gd-stats.jpush.cn
+127.0.0.1  alog.umeng.co
+# meituan
+127.0.0.1  report.meituan.com
+
