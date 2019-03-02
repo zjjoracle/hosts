@@ -13,6 +13,7 @@
 127.0.0.1  btrace.qq.com
 # meituan
 127.0.0.1  report.meituan.com
+127.0.0.1  analytics.meituan.net
 # basiguanjia
 127.0.0.1  dc1.networkbench.com
 # liantong
