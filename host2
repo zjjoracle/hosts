@@ -38,6 +38,7 @@
 # xiaomi
 127.0.0.1  api.sec.miui.com
 127.0.0.1  api-analytics.huami.com
+127.0.0.1  auth.be.sec.miui.com
 # page
 127.0.0.1  track.sohu.com
 127.0.0.1  mythings.com
