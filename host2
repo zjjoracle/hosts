@@ -8,10 +8,10 @@
 # alibaba
 127.0.0.1  h-adashx.ut.taobao.com
 127.0.0.1  amdc.m.taobao.com
-# 127.0.0.1  log.mmstat.com
+127.0.0.1  log.mmstat.com
 127.0.0.1  tanx.com
 127.0.0.1  ifs.tanx.com
-# 127.0.0.1  gm.mmstat.com
+127.0.0.1  gm.mmstat.com
 127.0.0.1  ifsk2.tanx.com
 # tx
 127.0.0.1  android.bugly.qq.com
