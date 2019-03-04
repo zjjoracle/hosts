@@ -28,6 +28,8 @@
 # weather
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
+127.0.0.1  identity.mparticle.com
+127.0.0.1  config2.mparticle.com
 127.0.0.1  lijit.com
 127.0.0.1  ap.lijit.com
 127.0.0.1  cas.pxl.ace.advertising.com
