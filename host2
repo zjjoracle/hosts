@@ -35,6 +35,8 @@
 127.0.0.1  dc1.networkbench.com
 # liantong
 127.0.0.1  pv.sohu.com
+# icebox
+127.0.0.1  reports.crashlytics.com
 # xiaomi
 127.0.0.1  api.sec.miui.com
 127.0.0.1  api-analytics.huami.com
@@ -42,3 +44,4 @@
 # page
 127.0.0.1  track.sohu.com
 127.0.0.1  mythings.com
+127.0.0.1  s.360.cn
