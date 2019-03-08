@@ -26,7 +26,7 @@
 # jd
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
-127.0.0.1  dg.k.jd.com
+#127.0.0.1  dg.k.jd.com
 # weather
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
