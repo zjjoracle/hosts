@@ -12,6 +12,7 @@
 127.0.0.1  f.s.360.cn
 127.0.0.1  m3.s.360.cn
 127.0.0.1  clientservices.googleapis.com
+127.0.0.1  f12.baidu.com
 # 百度
 127.0.0.1  f11.baidu.com
 127.0.0.1  cjie.baidu.com 
@@ -67,3 +68,9 @@
 127.0.0.1  ap.lijit.com
 127.0.0.1  cas.pxl.ace.advertising.com
 127.0.0.1  bidi-geo.mythings.com
+# MXplayer
+127.0.0.1  i.mxplayer.j2inter.com
+127.0.0.1  ade.clmbtech.com
+127.0.0.1  ase.clmbtech.com
+# 王者荣耀
+127.0.0.1  huatuo.qq.com
