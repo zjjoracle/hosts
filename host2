@@ -34,6 +34,8 @@
 127.0.0.1  btrace.video.qq.com
 127.0.0.1  rcgi.video.qq.com
 127.0.0.1  isdspeed.qq.com
+127.0.0.1  huatuo.qq.com
+127.0.0.1  wxsnsdy.wxs.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -73,5 +75,10 @@
 127.0.0.1  i.mxplayer.j2inter.com
 127.0.0.1  ade.clmbtech.com
 127.0.0.1  ase.clmbtech.com
-# 王者荣耀
-127.0.0.1  huatuo.qq.com
+# WIFI万能钥匙
+127.0.0.1  taichi.51y5.net
+127.0.0.1  dcmdaa.51y5.net
+127.0.0.1  dc.51y5.net
+127.0.0.1  check02.51y5.net
+127.0.0.1  c.51y5.net
+127.0.0.1  ap.51y5.net
