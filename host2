@@ -1,10 +1,11 @@
-# PUSH
+# PUSH/track
 127.0.0.1  gd-stats.jpush.cn
 127.0.0.1  advertising.com
 127.0.0.1  alog.umeng.co
 127.0.0.1  ulogs.umengcloud.com
 127.0.0.1  plbslog.umeng.com
 127.0.0.1  ulogs.umeng.com
+127.0.0.1  data.flurry.com
 # page
 127.0.0.1  track.sohu.com
 127.0.0.1  mythings.com
