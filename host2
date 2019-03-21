@@ -55,8 +55,9 @@
 127.0.0.1  reports.crashlytics.com
 # 巴士管家
 127.0.0.1  dc1.networkbench.com
-# KFC
+# KFC 0321
 127.0.0.1  tsis.jpush.cn
+127.0.0.1  xdrig.com
 # 咪咕
 127.0.0.1  sec.umeng.com
 127.0.0.1  ggx.cmvideo.cn
