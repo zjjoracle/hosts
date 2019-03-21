@@ -51,6 +51,8 @@
 127.0.0.1  auth.be.sec.miui.com
 # 联通营业厅
 127.0.0.1  pv.sohu.com
+# 移动营业厅 0321
+127.0.0.1  openapi.jiegames.com
 # 冰箱
 127.0.0.1  reports.crashlytics.com
 # 巴士管家
