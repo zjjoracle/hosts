@@ -44,7 +44,7 @@
 127.0.0.1  analytics.meituan.net
 # 网易
 127.0.0.1  analytics.163.com
-127.0.0.1  only-233442-112-21-105-64.nstool.netease.com
+127.0.0.1  nstool.netease.com
 # 小米
 127.0.0.1  api.sec.miui.com
 127.0.0.1  api-analytics.huami.com
