@@ -19,13 +19,13 @@
 127.0.0.1  f11.baidu.com
 127.0.0.1  cjie.baidu.com 
 # 阿里
-127.0.0.1  h-adashx.ut.taobao.com
-127.0.0.1  amdc.m.taobao.com
-127.0.0.1  log.mmstat.com
-127.0.0.1  tanx.com
-127.0.0.1  ifs.tanx.com
-127.0.0.1  gm.mmstat.com
-127.0.0.1  ifsk2.tanx.com
+# 127.0.0.1  h-adashx.ut.taobao.com
+# 127.0.0.1  amdc.m.taobao.com
+# 127.0.0.1  log.mmstat.com
+# 127.0.0.1  tanx.com
+# 127.0.0.1  ifs.tanx.com
+# 127.0.0.1  gm.mmstat.com
+# 127.0.0.1  ifsk2.tanx.com
 # 腾讯 0322-2
 127.0.0.1  android.bugly.qq.com
 127.0.0.1  btrace.qq.com
