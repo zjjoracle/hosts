@@ -27,7 +27,7 @@
 127.0.0.1  ifs.tanx.com
 127.0.0.1  gm.mmstat.com
 127.0.0.1  ifsk2.tanx.com
-# 腾讯 0322-2
+# 腾讯 0329-1
 127.0.0.1  android.bugly.qq.com
 127.0.0.1  btrace.qq.com
 127.0.0.1  c.isdspeed.qq.com
@@ -40,6 +40,7 @@
 127.0.0.1  wxsnsdy.wxs.qq.com
 127.0.0.1  trace.qq.com
 127.0.0.1  pingjs.qq.com
+127.0.0.1  huatuocoede.huatuo.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
