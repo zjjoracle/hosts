@@ -20,14 +20,15 @@
 # 百度
 127.0.0.1  f11.baidu.com
 127.0.0.1  cjie.baidu.com 
-# 阿里
+# 阿里 0812
 127.0.0.1  h-adashx.ut.taobao.com
 127.0.0.1  amdc.m.taobao.com
 127.0.0.1  log.mmstat.com
 127.0.0.1  ifs.tanx.com
 127.0.0.1  gm.mmstat.com
 127.0.0.1  ifsk2.tanx.com
-# 腾讯 0329-1
+127.0.0.1  adashbc.ut.taobao.com
+# 腾讯 
 127.0.0.1  android.bugly.qq.com
 127.0.0.1  btrace.qq.com
 127.0.0.1  c.isdspeed.qq.com
@@ -50,10 +51,12 @@
 # 网易
 127.0.0.1  analytics.163.com
 127.0.0.1  nstool.netease.com
-# 小米
+# 小米 0812
 127.0.0.1  api.sec.miui.com
 127.0.0.1  api-analytics.huami.com
 127.0.0.1  auth.be.sec.miui.com
+127.0.0.1  resolver.msg.xiaomi.net
+127.0.0.1  metok.sys.miui.com
 # 联通营业厅 0322-2
 127.0.0.1  pv.sohu.com
 127.0.0.1  pdup.baidustatic.com
@@ -101,3 +104,7 @@
 # 传送门
 127.0.0.1  experiment.appadhoc.com
 127.0.0.1  ad.browser.qq.com
+# 迅雷 0812
+127.0.0.1  api-mcp.adsp.xunlei.com
+# 网易 0812
+127.0.0.1  h5.analytics.126.net
