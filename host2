@@ -42,6 +42,9 @@
 127.0.0.1  trace.qq.com
 127.0.0.1  pingjs.qq.com
 127.0.0.1  huatuocoede.huatuo.qq.com
+127.0.0.1  tools.3g.qq.com
+127.0.0.1  astat.bugly.qq.com
+127.0.0.1  store.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -57,6 +60,7 @@
 127.0.0.1  auth.be.sec.miui.com
 127.0.0.1  resolver.msg.xiaomi.net
 127.0.0.1  metok.sys.miui.com
+127.0.0.1  o2o.api.xiaomi.com
 # 联通营业厅 0322-2
 127.0.0.1  pv.sohu.com
 127.0.0.1  pdup.baidustatic.com
@@ -108,3 +112,7 @@
 127.0.0.1  api-mcp.adsp.xunlei.com
 # 网易 0812
 127.0.0.1  h5.analytics.126.net
+# 优酷 0831
+127.0.0.1  irs01.com
+127.0.0.1  tmge.alicdn.com
+127.0.0.1  acs4baichuan.m.taobao.com
