@@ -12,6 +12,7 @@
 127.0.0.1  google-analytics.com
 127.0.0.1  xdrig.com
 127.0.0.1  beacon.ztgame.com
+127.0.0.1  ssl.google-analytics.com
 # page 0323-1
 127.0.0.1  track.sohu.com
 127.0.0.1  mythings.com
@@ -33,6 +34,7 @@
 127.0.0.1  gm.mmstat.com
 127.0.0.1  ifsk2.tanx.com
 127.0.0.1  adashbc.ut.taobao.com
+127.0.0.1  wvcfg.alicdn.com
 # 腾讯 
 127.0.0.1  android.bugly.qq.com
 127.0.0.1  btrace.qq.com
