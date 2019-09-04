@@ -34,7 +34,7 @@
 127.0.0.1  gm.mmstat.com
 127.0.0.1  ifsk2.tanx.com
 127.0.0.1  adashbc.ut.taobao.com
-127.0.0.1  wvcfg.alicdn.com
+# 127.0.0.1  wvcfg.alicdn.com
 # 腾讯 
 127.0.0.1  android.bugly.qq.com
 127.0.0.1  btrace.qq.com
