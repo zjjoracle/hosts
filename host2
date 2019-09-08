@@ -13,6 +13,7 @@
 127.0.0.1  xdrig.com
 127.0.0.1  beacon.ztgame.com
 127.0.0.1  ssl.google-analytics.com
+127.0.0.1  jpush.cn
 # page 0323-1
 127.0.0.1  track.sohu.com
 127.0.0.1  mythings.com
@@ -55,6 +56,7 @@
 127.0.0.1  brace.qq.com
 127.0.0.1  report.huatuo.qq.com
 127.0.0.1  vpic.video.qq.com
+127.0.0.1  cgi.connect.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
