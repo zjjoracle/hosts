@@ -1,4 +1,4 @@
-# PUSH/track  0323-1
+# PUSH/track 
 127.0.0.1  gd-stats.jpush.cn
 127.0.0.1  advertising.com
 127.0.0.1  alog.umeng.co
@@ -14,7 +14,7 @@
 127.0.0.1  beacon.ztgame.com
 127.0.0.1  ssl.google-analytics.com
 127.0.0.1  jpush.cn
-# page 0323-1
+# page 
 127.0.0.1  track.sohu.com
 127.0.0.1  mythings.com
 127.0.0.1  s.360.cn
@@ -83,7 +83,7 @@
 127.0.0.1  reports.crashlytics.com
 # 巴士管家
 127.0.0.1  dc1.networkbench.com
-# KFC 0323-1
+# KFC 
 127.0.0.1  tsis.jpush.cn
 127.0.0.1  xdrig.com
 127.0.0.1  cdn-api.appadhoc.com
@@ -120,12 +120,16 @@
 # 传送门
 127.0.0.1  experiment.appadhoc.com
 127.0.0.1  ad.browser.qq.com
-# 迅雷 0812
+# 迅雷 
 127.0.0.1  api-mcp.adsp.xunlei.com
-# 网易 0812
+# 网易 
 127.0.0.1  h5.analytics.126.net
-# 优酷 0831
+# 优酷 
 127.0.0.1  m.irs01.com
 127.0.0.1  irs01.com
 127.0.0.1  tmge.alicdn.com
 127.0.0.1  acs4baichuan.m.taobao.com
+# 09
+127.0.0.1  tbs.qq.com
+127.0.0.1  data.mistat.xiaomi.com
+127.0.0.1  oth.str.mdt.qq.com
