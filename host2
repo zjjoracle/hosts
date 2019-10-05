@@ -179,3 +179,5 @@
 127.0.0.1  fenbi-app-log.cn-beijing.log.aliyuncs.com
 127.0.0.1  bjuser.jpush.cn
 127.0.0.1  *.jpush.cn
+127.0.0.1  detect.rayjump.com
+127.0.0.1  behacdn.ksmobile.net
