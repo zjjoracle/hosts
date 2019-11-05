@@ -225,11 +225,11 @@
 127.0.0.1  mbd.baidu.com
 127.0.0.1  amdcopen.m.taobao.com
 127.0.0.1  mcgi.v.qq.com
-127.0.0.1  msg.qy.net
+# 127.0.0.1  msg.qy.net
 127.0.0.1  msgv6.qy.net
 127.0.0.1  iface2.iqiyi.com
-# 127.0.0.1  act.vip.iqiyi.com
-# 127.0.0.1  policy.video.iqiyi.com
+127.0.0.1  act.vip.iqiyi.com
+127.0.0.1  policy.video.iqiyi.com
 127.0.0.1  emoticon-sns.iqiyi.com
 127.0.0.1  pingtas.qq.com
 127.0.0.1  sub.ykimg.com
@@ -238,13 +238,12 @@
 127.0.0.1  gm.mmstat.com
 127.0.0.1  paopao.iqiyi.com
 127.0.0.1  ifacelog.iqiyi.com
-
 127.0.0.1  v14-1184602800.z.irs01.com
 127.0.0.1  emoticon.sns.iqiyi.com
 127.0.0.1  graph.facebook.com
 127.0.0.1  eco.taobao.com
 127.0.0.1  wvcfg.alicdn.com
 127.0.0.1  v14-1126666000.z.irs01.com
-# 127.0.0.1  time.video.iqiyi.com
+127.0.0.1  time.video.iqiyi.com
 
 
