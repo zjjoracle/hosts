@@ -337,3 +337,8 @@
 127.0.0.1  hot.browser.miui.com
 127.0.0.1  file.market.xiaomi.com
 127.0.0.1  resolver.msg.xiaomi.net
+127.0.0.1  settings.crashlytics.com
+127.0.0.1  e.crashlytics.com
+127.0.0.1  crashlytics.com
+127.0.0.1  sngapm.qq.com
+127.0.0.1  d3g.qq.com
