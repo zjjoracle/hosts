@@ -1,6 +1,5 @@
 # PUSH/TRACK
 127.0.0.1  jpush.cn
-127.0.0.1  tsis.jpush.cn
 127.0.0.1  *.jpush.cn
 127.0.0.1  bjuser.jpush.cn
 127.0.0.1  gd-stats.jpush.cn
