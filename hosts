@@ -207,20 +207,6 @@
 127.0.0.1  search.video.iqiyi.com
 127.0.0.1  policy.video.iqiyi.com
 127.0.0.1  data.video.iqiyi.com
-127.0.0.1  mbdlog.iqiyi.com
-127.0.0.1  iface2.iqiyi.com
-# 127.0.0.1  act.vip.iqiyi.com
-127.0.0.1  time.video.iqiyi.com
-127.0.0.1  policy.video.iqiyi.com
-127.0.0.1  emoticon-sns.iqiyi.com
-127.0.0.1  msga.cupid.iqiyi.com
-127.0.0.1  t7z.cupid.iqiyi.com
-127.0.0.1  paopao.iqiyi.com
-127.0.0.1  ifacelog.iqiyi.com
-127.0.0.1  emoticon.sns.iqiyi.com
-127.0.0.1  qy.net
-127.0.0.1  msg.qy.net
-127.0.0.1  msgv6.qy.net
 #新浪
 127.0.0.1  ad.us.sinaimg.cn
 127.0.0.1  dns.weibo.cn
