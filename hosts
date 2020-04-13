@@ -156,7 +156,7 @@
 127.0.0.1  t2.a.market.xiaomi.com
 127.0.0.1  o2o.api.xiaomi.com
 127.0.0.1  resolver.msg.xiaomi.net
-127.0.0.1  data.mistat.xiaomi.com
+# 127.0.0.1  data.mistat.xiaomi.com
 127.0.0.1  tracking.miui.com
 127.0.0.1  logupdate.avlyun.sec.miui.com
 127.0.0.1  metok.sys.miui.com
