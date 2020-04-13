@@ -55,6 +55,7 @@
 127.0.0.1  pdup.baidustatic.com
 127.0.0.1  browserkernel.baidu.com
 127.0.0.1  nj.t.bcsp2p.baidu.com
+127.0.0.1  issuecdn.baidupcs.com
 # 阿里 
 127.0.0.1  zconfig.alibabausercontent.com
 127.0.0.1  acs4baichuan.m.taobao.com
@@ -135,6 +136,7 @@
 127.0.0.1  huatuocoede.huatuo.qq.com
 127.0.0.1  report.huatuo.qq.com
 127.0.0.1  huatuocode.huatuo.qq.com
+127.0.0.1  uploadlog.p2p.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -168,6 +170,8 @@
 127.0.0.1  hot.browser.miui.com
 127.0.0.1  nav.browser.miui.com
 127.0.0.1  api.huangye.miui.com
+127.0.0.1  cnbj1.fds.api.xiaomi.com
+127.0.0.1  api.miui.security.xiaomi.com
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
