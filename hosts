@@ -230,11 +230,19 @@
 127.0.0.1  bigfun.cn
 127.0.0.1  passport.bigfun.cn
 127.0.0.1  passport.bigfunapp.cn
+#迅雷
+127.0.0.1  api-mcp.adsp.xunlei.com
+127.0.0.1  live.xunlei.com^
+127.0.0.1  soagw.live.xunlei.com
+127.0.0.1  list.live.xunlei.com
+127.0.0.1  advertpay.vip.xunlei.com
+127.0.0.1  upgrade.xl9.xunlei.com
+127.0.0.1  soa-vip-ssl.xunlei.com
+127.0.0.1  etl-xlmc-ssl.xunlei.com
 #国内
 127.0.0.1  yyzyupdate.ztgame.com.cn
 127.0.0.1  zhihu-web-analytics.zhihu.com
 127.0.0.1  is.snssdk.com
-127.0.0.1  api-mcp.adsp.xunlei.com
 127.0.0.1  etl-xlmc-ssl.sandai.net
 127.0.0.1  huatuo.weiyun.com
 127.0.0.1  changyan.itc.cn
