@@ -149,6 +149,7 @@
 127.0.0.1  analytics.163.com
 127.0.0.1  h5.analytics.126.net
 127.0.0.1  nstool.netease.com
+127.0.0.1  lbs.netease.im
 # 小米 
 127.0.0.1  api-analytics.huami.com
 127.0.0.1  ad.xiaomi.com
@@ -232,7 +233,9 @@
 127.0.0.1  passport.bigfunapp.cn
 #迅雷
 127.0.0.1  api-mcp.adsp.xunlei.com
-127.0.0.1  live.xunlei.com^
+127.0.0.1  soagw.pw.xunlei.com
+127.0.0.1  live.xunlei.com
+127.0.0.1  active.live.xunlei.com
 127.0.0.1  soagw.live.xunlei.com
 127.0.0.1  list.live.xunlei.com
 127.0.0.1  advertpay.vip.xunlei.com
@@ -240,8 +243,6 @@
 127.0.0.1  soa-vip-ssl.xunlei.com
 127.0.0.1  etl-xlmc-ssl.xunlei.com
 127.0.0.1  api-u-ssl.xunlei.com
-127.0.0.1  f.gm.mob.com
-127.0.0.1  api.exc.mob.com
 # 头条系屏蔽
 127.0.0.1 is.snssdk.com
 127.0.0.1 log.snssdk.com
