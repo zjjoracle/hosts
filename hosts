@@ -239,6 +239,21 @@
 127.0.0.1  upgrade.xl9.xunlei.com
 127.0.0.1  soa-vip-ssl.xunlei.com
 127.0.0.1  etl-xlmc-ssl.xunlei.com
+127.0.0.1  api-u-ssl.xunlei.com
+# 头条系屏蔽
+127.0.0.1 log.snssdk.com
+127.0.0.1 xlog.snssdk.com
+127.0.0.1 i.snssdk.com
+127.0.0.1 aweme.snssdk.com
+127.0.0.1 lf.snssdk.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 api.amemv.com
+127.0.0.1 is.snssdk.com
+127.0.0.1 mon.snssdk.com
+127.0.0.1 effect.snssdk.com
+127.0.0.1 hotsoon.snssdk.com
+127.0.0.1 dm.toutiao.com
+127.0.0.1 iu.snssdk.com
 #国内
 127.0.0.1  yyzyupdate.ztgame.com.cn
 127.0.0.1  zhihu-web-analytics.zhihu.com
