@@ -240,7 +240,10 @@
 127.0.0.1  soa-vip-ssl.xunlei.com
 127.0.0.1  etl-xlmc-ssl.xunlei.com
 127.0.0.1  api-u-ssl.xunlei.com
+127.0.0.1  f.gm.mob.com
+127.0.0.1  api.exc.mob.com
 # 头条系屏蔽
+127.0.0.1 is.snssdk.com
 127.0.0.1 log.snssdk.com
 127.0.0.1 xlog.snssdk.com
 127.0.0.1 i.snssdk.com
