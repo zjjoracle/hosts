@@ -69,6 +69,8 @@
 127.0.0.1  ynuf.alipay.com
 127.0.0.1  ynuf.aliapp.org
 127.0.0.1  audid-api.taobao.com
+127.0.0.1  gvt2.com
+127.0.0.1  beacons.gcp.gvt2.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -198,6 +200,10 @@
 127.0.0.1  bigfun.cn
 127.0.0.1  passport.bigfun.cn
 127.0.0.1  passport.bigfunapp.cn
+127.0.0.1  hpplay.cn
+127.0.0.1  sdkauth.hpplay.cn
+127.0.0.1  devicemgr.hpplay.cn
+127.0.0.1  sdk.api.oaid.wocloud.cn
 #迅雷
 127.0.0.1  api-mcp.adsp.xunlei.com
 127.0.0.1  soagw.pw.xunlei.com
@@ -254,9 +260,9 @@
 127.0.0.1  dc1.networkbench.com
 127.0.0.1  cdn-api.appadhoc.com
 127.0.0.1  feedback.migu.cn
-127.0.0.1  sdkauth.hpplay.cn
 127.0.0.1  ta.yangkeduo.com
 127.0.0.1  input.shouji.sogou.com
+127.0.0.1  smartad.10010.com
 #其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
