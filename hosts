@@ -68,6 +68,7 @@
 127.0.0.1  wvcfg.alicdn.com
 127.0.0.1  ynuf.alipay.com
 127.0.0.1  ynuf.aliapp.org
+127.0.0.1  audid-api.taobao.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -132,6 +133,7 @@
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
+127.0.0.1  wq.360buyimg.com
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -151,7 +153,7 @@
 127.0.0.1  t2.a.market.xiaomi.com
 127.0.0.1  o2o.api.xiaomi.com
 127.0.0.1  resolver.msg.xiaomi.net
-# 127.0.0.1  data.mistat.xiaomi.com
+127.0.0.1  data.mistat.xiaomi.com
 127.0.0.1  tracking.miui.com
 127.0.0.1  logupdate.avlyun.sec.miui.com
 127.0.0.1  metok.sys.miui.com
@@ -168,6 +170,7 @@
 127.0.0.1  api.developer.xiaomi.com
 127.0.0.1  data.game.xiaomi.com
 127.0.0.1  tracker.ai.xiaomi.com
+127.0.0.1  resolver.gslb.mi-idc.com
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -255,6 +258,7 @@
 127.0.0.1  feedback.migu.cn
 127.0.0.1  sdkauth.hpplay.cn
 127.0.0.1  ta.yangkeduo.com
+127.0.0.1  input.shouji.sogou.com
 #其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
