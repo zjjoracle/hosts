@@ -313,8 +313,10 @@
 127.0.0.1  ap-alps.51y5.net
 127.0.0.1  config.51y5.net
 127.0.0.1  kepler.51y5.net
-# 互联网通行证登录
+# 一键登录
 127.0.0.1  log1.cmpassport.com
 127.0.0.1  wap.cmpassport.com
 127.0.0.1  cmpassport.com
 127.0.0.1  smsks1.cmpassport.com
+127.0.0.1  ulflash.253.com
+127.0.0.1  flash.253.com
