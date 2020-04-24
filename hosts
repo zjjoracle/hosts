@@ -230,9 +230,7 @@
 127.0.0.1  i.snssdk.com
 127.0.0.1  aweme.snssdk.com
 127.0.0.1  lf.snssdk.com
-127.0.0.1  is.snssdk.com
 127.0.0.1  api.amemv.com
-127.0.0.1  is.snssdk.com
 127.0.0.1  mon.snssdk.com
 127.0.0.1  effect.snssdk.com
 127.0.0.1  hotsoon.snssdk.com
@@ -241,7 +239,6 @@
 #国内
 127.0.0.1  yyzyupdate.ztgame.com.cn
 127.0.0.1  zhihu-web-analytics.zhihu.com
-127.0.0.1  is.snssdk.com
 127.0.0.1  etl-xlmc-ssl.sandai.net
 127.0.0.1  huatuo.weiyun.com
 127.0.0.1  changyan.itc.cn
