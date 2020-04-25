@@ -58,6 +58,7 @@
 127.0.0.1  h-adashx.ut.taobao.com
 127.0.0.1  gm.mmstat.com
 127.0.0.1  log.mmstat.com
+127.0.0.1  ws.mmstat.com
 127.0.0.1  ifs.tanx.com
 127.0.0.1  ifsk2.tanx.com
 127.0.0.1  log.aliyuncs.com
@@ -71,6 +72,7 @@
 127.0.0.1  audid-api.taobao.com
 127.0.0.1  gvt2.com
 127.0.0.1  beacons.gcp.gvt2.com
+127.0.0.1  beacons.gvt2.com
 127.0.0.1  umdc.aliapp.org
 127.0.0.1  arms-retcode.aliyuncs.com
 # 腾讯 
@@ -210,6 +212,7 @@
 127.0.0.1  passport.bigfun.cn
 127.0.0.1  passport.bigfunapp.cn
 127.0.0.1  hpplay.cn
+127.0.0.1  imdns.hpplay.cn
 127.0.0.1  sdkauth.hpplay.cn
 127.0.0.1  devicemgr.hpplay.cn
 127.0.0.1  sdk.api.oaid.wocloud.cn
@@ -288,9 +291,8 @@
 127.0.0.1  ggx.cmvideo.cn
 127.0.0.1  googleads.g.doubleclick.net
 127.0.0.1  graph.facebook.com
-127.0.0.1  gvt2.com
-127.0.0.1  beacons.gvt2.com
-127.0.0.1  hzs4.cnzz.com
+
+=127.0.0.1  hzs4.cnzz.com
 127.0.0.1  i1.go2yd.com
 127.0.0.1  id1.cn
 127.0.0.1  id6.me
