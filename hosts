@@ -72,7 +72,6 @@
 127.0.0.1  gvt2.com
 127.0.0.1  beacons.gcp.gvt2.com
 127.0.0.1  acs.m.taobao.com
-127.0.0.1  umdc.aliapp.org
 127.0.0.1  arms-retcode.aliyuncs.com
 # 腾讯 
 127.0.0.1  brace.qq.com
@@ -271,7 +270,6 @@
 127.0.0.1  cdn-api.appadhoc.com
 127.0.0.1  feedback.migu.cn
 127.0.0.1  ta.yangkeduo.com
-127.0.0.1  input.shouji.sogou.com
 127.0.0.1  smartad.10010.com
 #其他
 127.0.0.1  005.tv
