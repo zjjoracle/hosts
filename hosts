@@ -64,6 +64,7 @@
 127.0.0.1  log.aliyuncs.com
 127.0.0.1  fenbi-app-log.cn-beijing.log.aliyuncs.com
 127.0.0.1  client-upload.cn-shanghai.log.aliyuncs.com
+127.0.0.1  impaas-for-client.cn-shanghai.log.aliyuncs.com
 127.0.0.1  tmge.alicdn.com
 127.0.0.1  nbsdk-baichuan.alicdn.com
 127.0.0.1  wvcfg.alicdn.com
