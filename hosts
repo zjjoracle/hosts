@@ -164,31 +164,30 @@
 127.0.0.1  t2.a.market.xiaomi.com
 127.0.0.1  o2o.api.xiaomi.com
 127.0.0.1  resolver.msg.xiaomi.net
-# 127.0.0.1  data.mistat.xiaomi.com
+127.0.0.1  data.mistat.xiaomi.com
 127.0.0.1  tracking.miui.com
 127.0.0.1  logupdate.avlyun.sec.miui.com
 127.0.0.1  metok.sys.miui.com
 127.0.0.1  adv.sec.miui.com
-127.0.0.1  api.sec.miui.com
+# 127.0.0.1  api.sec.miui.com
 127.0.0.1  data.sec.miui.com
 127.0.0.1  auth.be.sec.miui.com
+127.0.0.1  api.miui.security.xiaomi.com
+127.0.0.1  browser.miui.com
 127.0.0.1  r.browser.miui.com
 127.0.0.1  hot.browser.miui.com
 127.0.0.1  nav.browser.miui.com
-127.0.0.1  api.huangye.miui.com
+127.0.0.1  sug.browser.miui.com
+127.0.0.1  hd.browser.miui.com
+127.0.0.1  api.browser.miui.com
+127.0.0.1  httpdns.browser.miui.com
 127.0.0.1  cnbj1.fds.api.xiaomi.com
-127.0.0.1  api.miui.security.xiaomi.com
 127.0.0.1  api.developer.xiaomi.com
 127.0.0.1  data.game.xiaomi.com
 127.0.0.1  tracker.ai.xiaomi.com
 127.0.0.1  resolver.gslb.mi-idc.com
-127.0.0.1  browser.miui.com
-127.0.0.1  sug.browser.miui.com
-# 127.0.0.1  exp.sug.browser.miui.com
-127.0.0.1  hd.browser.miui.com
-127.0.0.1  api.browser.miui.com
-127.0.0.1  httpdns.browser.miui.com
 127.0.0.1  t1.market.mi-img.com
+127.0.0.1  api.huangye.miui.com
 127.0.0.1  huangye.miui.com
 127.0.0.1  web.huangye.miui.com
 127.0.0.1  st.huangye.miui.com
