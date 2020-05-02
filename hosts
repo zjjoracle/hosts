@@ -74,6 +74,7 @@
 127.0.0.1  gvt2.com
 127.0.0.1  beacons.gcp.gvt2.com
 127.0.0.1  beacons.gvt2.com
+127.0.0.1  beacons5.gvt3.com
 127.0.0.1  umdc.aliapp.org
 127.0.0.1  arms-retcode.aliyuncs.com
 127.0.0.1  dorangesource.alicdn.com
@@ -190,6 +191,8 @@
 127.0.0.1  huangye.miui.com
 127.0.0.1  web.huangye.miui.com
 127.0.0.1  st.huangye.miui.com
+127.0.0.1  exp.sug.browser.miui.com
+127.0.0.1  weatherapi.market.xiaomi.com
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
