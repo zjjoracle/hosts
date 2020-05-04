@@ -212,6 +212,7 @@
 127.0.0.1  abroad-ad.kingsoft-office-service.com
 127.0.0.1  cloudservice14.kingsoft-office-service.com
 127.0.0.1  gcm.ksmobile.net
+127.0.0.1  cmplay.did.ijinshan.com
 #哔哩哔哩
 127.0.0.1  cm.bilibili.com
 127.0.0.1  data.bilibili.com
@@ -287,7 +288,8 @@
 127.0.0.1  smartad.10010.com
 127.0.0.1  analytics-api.smzdm.com
 127.0.0.1  cmplay.did.ijinshan.com
-#其他
+127.0.0.1  analytics-api.smzdm.com
+# 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
 127.0.0.1  anquan.org
@@ -319,6 +321,7 @@
 127.0.0.1  trafficjunky.net
 127.0.0.1  api.ktplay.com
 127.0.0.1  ads-sdk.upltv.com
+127.0.0.1  collector.githubapp.com
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
