@@ -55,7 +55,7 @@
 127.0.0.1  err.taobao.com
 127.0.0.1  eco.taobao.com
 127.0.0.1  adashbc.ut.taobao.com
-127.0.0.1  h-adashx.ut.taobao.com
+# 127.0.0.1  h-adashx.ut.taobao.com
 127.0.0.1  gm.mmstat.com
 127.0.0.1  log.mmstat.com
 127.0.0.1  ws.mmstat.com
