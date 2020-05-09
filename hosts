@@ -243,6 +243,7 @@
 127.0.0.1  soa-vip-ssl.xunlei.com
 127.0.0.1  etl-xlmc-ssl.xunlei.com
 127.0.0.1  api-u-ssl.xunlei.com
+127.0.0.1  watch.advertising.speed.cdn.vip.xunlei.com
 # UC
 127.0.0.1  applog.uc.cn
 127.0.0.1  image.uczzd.cn
