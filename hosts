@@ -26,6 +26,10 @@
 127.0.0.1  e.crashlytics.com
 127.0.0.1  reports.crashlytics.com
 127.0.0.1  settings.crashlytics.com
+127.0.0.1  jpush.cn
+127.0.0.1  ce3e75d5.jpush.cn
+127.0.0.1  jiguang.cn
+127.0.0.1  sdk.verification.jiguang.cn
 # 百度
 127.0.0.1  ada.baidu.com
 127.0.0.1  cjie.baidu.com 
@@ -229,6 +233,7 @@
 #迅雷
 127.0.0.1  api-mcp.adsp.xunlei.com
 127.0.0.1  soagw.pw.xunlei.com
+127.0.0.1  game.xunlei.com
 127.0.0.1  live.xunlei.com
 127.0.0.1  active.live.xunlei.com
 127.0.0.1  soagw.live.xunlei.com
