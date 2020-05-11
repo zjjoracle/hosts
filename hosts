@@ -59,7 +59,6 @@
 127.0.0.1  err.taobao.com
 127.0.0.1  eco.taobao.com
 127.0.0.1  adashbc.ut.taobao.com
-# 127.0.0.1  h-adashx.ut.taobao.com
 127.0.0.1  gm.mmstat.com
 127.0.0.1  log.mmstat.com
 127.0.0.1  ws.mmstat.com
@@ -156,7 +155,6 @@
 # 网易
 127.0.0.1  analytics.163.com
 127.0.0.1  h5.analytics.126.net
-127.0.0.1  nstool.netease.com
 127.0.0.1  lbs.netease.im
 # 小米 
 127.0.0.1  api-analytics.huami.com
@@ -247,7 +245,6 @@
 # UC
 127.0.0.1  applog.uc.cn
 127.0.0.1  image.uczzd.cn
-127.0.0.1  ucweb.com
 #新浪
 127.0.0.1  ad.us.sinaimg.cn
 127.0.0.1  dns.weibo.cn
