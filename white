@@ -1,8 +1,14 @@
 # 阿里系
 127.0.0.1  wgo.mmstat.com
+
 # 日历
-127.0.0.1  api.comm.miui.com
+api.comm.miui.com
+
 # 手机管家
-127.0.0.1  api.sec.miui.com
+api.sec.miui.com
+
 # 云同步
-127.0.0.1  pdc.micloud.xiaomi.net
+pdc.micloud.xiaomi.net
+
+# 清理垃圾猎豹规则
+mi.beha.ksmobile.com
