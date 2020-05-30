@@ -65,6 +65,7 @@
 127.0.0.1  ifs.tanx.com
 127.0.0.1  ifsk2.tanx.com
 127.0.0.1  log.aliyuncs.com
+127.0.0.1  sojump.cn-hangzhou.log.aliyuncs.com
 127.0.0.1  fenbi-app-log.cn-beijing.log.aliyuncs.com
 127.0.0.1  client-upload.cn-shanghai.log.aliyuncs.com
 127.0.0.1  impaas-for-client.cn-shanghai.log.aliyuncs.com
@@ -83,6 +84,7 @@
 127.0.0.1  dorangesource.alicdn.com
 127.0.0.1  acs.m.taobao.com
 127.0.0.1  sjarvis.taobao.com
+127.0.0.1  umc.danuoyi.alicdn.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -146,6 +148,7 @@
 127.0.0.1  uploadlog.p2p.qq.com
 127.0.0.1  report.vip.qq.com
 127.0.0.1  xj.gdt.qq.com
+127.0.0.1  sdkconfig.video.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -255,6 +258,10 @@
 127.0.0.1  f.s.360.cn
 127.0.0.1  m3.s.360.cn
 127.0.0.1  sdk.s.360.cn
+# 快手系
+127.0.0.1  api.kwaizt.com
+127.0.0.1  apilog.app.acfun.cn
+127.0.0.1  umc.danuoyi.alicdn.com
 # 头条系屏蔽
 127.0.0.1  is.snssdk.com
 127.0.0.1  log.snssdk.com
