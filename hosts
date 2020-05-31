@@ -153,6 +153,8 @@
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
 127.0.0.1  wq.360buyimg.com
+127.0.0.1  knicks.jd.com
+127.0.0.1  mars.jd.com
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -300,6 +302,7 @@
 127.0.0.1  analytics-api.smzdm.com
 127.0.0.1  cmplay.did.ijinshan.com
 127.0.0.1  analytics-api.smzdm.com
+127.0.0.1  serveraddr.service.kugou.com
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
@@ -341,6 +344,9 @@
 127.0.0.1  hw-cdn2.adtng.com
 127.0.0.1  cdn.mxpnl.com
 127.0.0.1  wzrkt.com
+127.0.0.1  hiqidi.com
+127.0.0.1  pp8.com
+127.0.0.1  sb.voicefive.com
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
