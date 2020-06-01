@@ -148,7 +148,6 @@
 127.0.0.1  uploadlog.p2p.qq.com
 127.0.0.1  report.vip.qq.com
 127.0.0.1  xj.gdt.qq.com
-127.0.0.1  sdkconfig.video.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -303,6 +302,7 @@
 127.0.0.1  cmplay.did.ijinshan.com
 127.0.0.1  analytics-api.smzdm.com
 127.0.0.1  serveraddr.service.kugou.com
+127.0.0.1  ntalker.com
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
