@@ -85,6 +85,7 @@
 127.0.0.1  acs.m.taobao.com
 127.0.0.1  sjarvis.taobao.com
 127.0.0.1  umc.danuoyi.alicdn.com
+127.0.0.1  tanx.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -303,6 +304,9 @@
 127.0.0.1  analytics-api.smzdm.com
 127.0.0.1  serveraddr.service.kugou.com
 127.0.0.1  ntalker.com
+127.0.0.1  ta.pinduoduo.com
+127.0.0.1  worldwide.sogou.com
+127.0.0.1  register.appsflyer.com
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
@@ -347,6 +351,7 @@
 127.0.0.1  hiqidi.com
 127.0.0.1  pp8.com
 127.0.0.1  sb.voicefive.com
+127.0.0.1  imasdk.googleapis.com
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
