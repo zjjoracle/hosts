@@ -50,6 +50,7 @@
 127.0.0.1  browserkernel.baidu.com
 127.0.0.1  nj.t.bcsp2p.baidu.com
 127.0.0.1  issuecdn.baidupcs.com
+127.0.0.1  sofire.bdstatic.com
 # 阿里 
 127.0.0.1  zconfig.alibabausercontent.com
 127.0.0.1  acs4baichuan.m.taobao.com
@@ -59,6 +60,7 @@
 127.0.0.1  err.taobao.com
 127.0.0.1  eco.taobao.com
 127.0.0.1  adashbc.ut.taobao.com
+127.0.0.1  mmstat.com
 127.0.0.1  gm.mmstat.com
 127.0.0.1  log.mmstat.com
 127.0.0.1  ws.mmstat.com
@@ -186,6 +188,7 @@
 127.0.0.1  hot.browser.miui.com
 127.0.0.1  nav.browser.miui.com
 127.0.0.1  sug.browser.miui.com
+127.0.0.1  exp.sug.browser.miui.com
 127.0.0.1  hd.browser.miui.com
 127.0.0.1  api.browser.miui.com
 127.0.0.1  httpdns.browser.miui.com
@@ -197,10 +200,12 @@
 127.0.0.1  t1.market.mi-img.com
 127.0.0.1  api.huangye.miui.com
 127.0.0.1  huangye.miui.com
+127.0.0.1  trial.open.mp.huangye.miui.com
 127.0.0.1  web.huangye.miui.com
 127.0.0.1  st.huangye.miui.com
 127.0.0.1  weatherapi.market.xiaomi.com
 127.0.0.1  api.comm.miui.com
+127.0.0.1  reader.browser.duokan.com
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -352,6 +357,7 @@
 127.0.0.1  pp8.com
 127.0.0.1  sb.voicefive.com
 127.0.0.1  imasdk.googleapis.com
+127.0.0.1  s.youtube.com
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
