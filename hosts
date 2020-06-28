@@ -106,9 +106,11 @@
 127.0.0.1  tbs.qq.com
 127.0.0.1  log.tbs.qq.com
 127.0.0.1  ad.browser.qq.com
+127.0.0.1  bugly.qq.com
 127.0.0.1  android.bugly.qq.com
 127.0.0.1  android.rqd.qq.com
 127.0.0.1  astat.bugly.qq.com
+127.0.0.1  aexception.bugly.qq.com
 127.0.0.1  c.isdspeed.qq.com
 127.0.0.1  cfg.imtt.qq.com
 127.0.0.1  cgi.connect.qq.com
@@ -151,6 +153,8 @@
 127.0.0.1  uploadlog.p2p.qq.com
 127.0.0.1  report.vip.qq.com
 127.0.0.1  xj.gdt.qq.com
+127.0.0.1  video.mpush.qq.com
+127.0.0.1  wuji.video.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -208,6 +212,7 @@
 127.0.0.1  reader.browser.duokan.com
 127.0.0.1  api.brs.intl.miui.com
 127.0.0.1  globalapi.ad.xiaomi.com
+127.0.0.1  api.ad.intl.xiaomi.com
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -224,6 +229,8 @@
 127.0.0.1  cfg.cml.ksmobile.com
 127.0.0.1  cmdts.ksmobile.com
 127.0.0.1  p-behacdn.ksmobile.net
+127.0.0.1  kingsoft-office-service.com
+127.0.0.1  service-api.kingsoft-office-service.com
 127.0.0.1  abroad-ad.kingsoft-office-service.com
 127.0.0.1  cloudservice14.kingsoft-office-service.com
 127.0.0.1  gcm.ksmobile.net
@@ -314,6 +321,7 @@
 127.0.0.1  ta.pinduoduo.com
 127.0.0.1  worldwide.sogou.com
 127.0.0.1  register.appsflyer.com
+127.0.0.1  log.iflytek.com
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
