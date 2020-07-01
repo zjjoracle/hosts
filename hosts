@@ -192,7 +192,7 @@
 # 127.0.0.1  sug.browser.miui.com
 # 127.0.0.1  exp.sug.browser.miui.com
 127.0.0.1  hd.browser.miui.com
-# 127.0.0.1  api.browser.miui.com
+127.0.0.1  api.browser.miui.com
 127.0.0.1  httpdns.browser.miui.com
 127.0.0.1  cnbj1.fds.api.xiaomi.com
 127.0.0.1  api.developer.xiaomi.com
