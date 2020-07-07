@@ -1,3 +1,11 @@
+# TEST
+127.0.0.1  cdn.ark.qq.com
+127.0.0.1  amdc.alipay.com
+127.0.0.1  cm.bilibili.com
+127.0.0.1  log.nuomi.com
+127.0.0.1  piwik.caiyunapp.com
+127.0.0.1  policy.jd.com
+127.0.0.1  re.taobao.com
 # PUSH/TRACK
 127.0.0.1  jpush.cn
 127.0.0.1  *.jpush.cn
@@ -30,6 +38,9 @@
 127.0.0.1  ce3e75d5.jpush.cn
 127.0.0.1  jiguang.cn
 127.0.0.1  sdk.verification.jiguang.cn
+127.0.0.1  getui.com
+127.0.0.1  gs.getui.com
+127.0.0.1  sdk.conf.getui.com
 # 百度
 127.0.0.1  ada.baidu.com
 127.0.0.1  cjie.baidu.com 
@@ -192,7 +203,7 @@
 127.0.0.1  hd.browser.miui.com
 # 127.0.0.1  sug.browser.miui.com
 # 127.0.0.1  exp.sug.browser.miui.com
-# 127.0.0.1  api.browser.miui.com
+127.0.0.1  api.browser.miui.com
 127.0.0.1  httpdns.browser.miui.com
 127.0.0.1  cnbj1.fds.api.xiaomi.com
 127.0.0.1  api.developer.xiaomi.com
