@@ -1,11 +1,3 @@
-# TEST
-127.0.0.1  cdn.ark.qq.com
-127.0.0.1  amdc.alipay.com
-127.0.0.1  cm.bilibili.com
-127.0.0.1  log.nuomi.com
-127.0.0.1  piwik.caiyunapp.com
-127.0.0.1  policy.jd.com
-127.0.0.1  re.taobao.com
 # PUSH/TRACK
 127.0.0.1  jpush.cn
 127.0.0.1  *.jpush.cn
@@ -34,6 +26,7 @@
 127.0.0.1  e.crashlytics.com
 127.0.0.1  reports.crashlytics.com
 127.0.0.1  settings.crashlytics.com
+127.0.0.1  firebase-settings.crashlytics.com
 127.0.0.1  jpush.cn
 127.0.0.1  ce3e75d5.jpush.cn
 127.0.0.1  jiguang.cn
@@ -41,6 +34,9 @@
 127.0.0.1  getui.com
 127.0.0.1  gs.getui.com
 127.0.0.1  sdk.conf.getui.com
+127.0.0.1  analysys.cn 
+127.0.0.1  rturd490.analysys.cn 
+127.0.0.1  beacon.tingyun.com
 # 百度
 127.0.0.1  ada.baidu.com
 127.0.0.1  cjie.baidu.com 
@@ -75,6 +71,7 @@
 127.0.0.1  gm.mmstat.com
 127.0.0.1  log.mmstat.com
 127.0.0.1  ws.mmstat.com
+127.0.0.1  tanx.com
 127.0.0.1  ifs.tanx.com
 127.0.0.1  ifsk2.tanx.com
 127.0.0.1  log.aliyuncs.com
@@ -98,7 +95,9 @@
 127.0.0.1  acs.m.taobao.com
 127.0.0.1  sjarvis.taobao.com
 127.0.0.1  umc.danuoyi.alicdn.com
-127.0.0.1  tanx.com
+127.0.0.1  amdc.alipay.com
+127.0.0.1  re.taobao.com
+127.0.0.1  log.nuomi.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -153,6 +152,8 @@
 127.0.0.1  commdata.v.qq.com
 127.0.0.1  mcgi.v.qq.com
 127.0.0.1  bkcommdata.v.qq.com
+127.0.0.1  sdkconfig.video.qq.com 
+127.0.0.1  bksdkconfig.video.qq.com
 127.0.0.1  btrace.video.qq.com
 127.0.0.1  rcgi.video.qq.com
 127.0.0.1  vpic.video.qq.com
@@ -166,12 +167,16 @@
 127.0.0.1  xj.gdt.qq.com
 127.0.0.1  video.mpush.qq.com
 127.0.0.1  wuji.video.qq.com
+127.0.0.1  h.trace.qq.com 
+127.0.0.1  wspeed.qq.com
+127.0.0.1  cdn.ark.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
 127.0.0.1  wq.360buyimg.com
 127.0.0.1  knicks.jd.com
 127.0.0.1  mars.jd.com
+127.0.0.1  policy.jd.com
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -222,6 +227,9 @@
 127.0.0.1  api.brs.intl.miui.com
 127.0.0.1  globalapi.ad.xiaomi.com
 127.0.0.1  api.ad.intl.xiaomi.com
+127.0.0.1  beha.ksmobile.com
+127.0.0.1  mivideo.cdn.pandora.xiaomi.com
+127.0.0.1  ssl-cdn.static.browser.mi-img.com 
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -332,6 +340,7 @@
 127.0.0.1  register.appsflyer.com
 127.0.0.1  log.iflytek.com
 127.0.0.1  sf3-ttcdn-tos.pstatp.com
+127.0.0.1  piwik.caiyunapp.com
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
