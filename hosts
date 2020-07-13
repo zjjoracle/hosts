@@ -37,6 +37,7 @@
 127.0.0.1  analysys.cn 
 127.0.0.1  rturd490.analysys.cn 
 127.0.0.1  beacon.tingyun.com
+127.0.0.1  ddz.appcoo.com 
 # 百度
 127.0.0.1  ada.baidu.com
 127.0.0.1  cjie.baidu.com 
@@ -170,6 +171,7 @@
 127.0.0.1  h.trace.qq.com 
 127.0.0.1  wspeed.qq.com
 127.0.0.1  cdn.ark.qq.com
+127.0.0.1  log.qvb.qcloud.com 
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -231,6 +233,8 @@
 127.0.0.1  beha.ksmobile.com
 127.0.0.1  mivideo.cdn.pandora.xiaomi.com
 127.0.0.1  ssl-cdn.static.browser.mi-img.com 
+127.0.0.1  api.browser.miui.com 
+127.0.0.1  d.g.mi.com 
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -242,6 +246,11 @@
 127.0.0.1  cs-feige.iqiyi.com
 127.0.0.1  time.video.iqiyi.com
 127.0.0.1  msg.qy.net
+127.0.0.1  inter.iqiyi.com 
+127.0.0.1  baiducdncmn1.inter.iqiyi.com
+127.0.0.1  baiducdncmn2.inter.iqiyi.com 
+127.0.0.1  ucloudcdncmnet.inter.iqiyi.com
+127.0.0.1  cmts.iqiyi.com 
 #金山
 127.0.0.1  behacdn.ksmobile.net
 127.0.0.1  cfg.cml.ksmobile.com
@@ -342,6 +351,10 @@
 127.0.0.1  log.iflytek.com
 127.0.0.1  sf3-ttcdn-tos.pstatp.com
 127.0.0.1  piwik.caiyunapp.com
+127.0.0.1  spay365.com 
+127.0.0.1  dsp.spay365.com 
+127.0.0.1  stat.izuiyou.com 
+127.0.0.1  stat.peopleapp.com 
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
