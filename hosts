@@ -82,6 +82,7 @@
 127.0.0.1  log.aliyuncs.com
 127.0.0.1  arms-retcode.aliyuncs.com
 127.0.0.1  sojump.cn-hangzhou.log.aliyuncs.com
+127.0.0.1  threehours-front.cn-zhangjiakou-2.log.aliyuncs.com
 127.0.0.1  fenbi-app-log.cn-beijing.log.aliyuncs.com
 127.0.0.1  client-upload.cn-shanghai.log.aliyuncs.com
 127.0.0.1  impaas-for-client.cn-shanghai.log.aliyuncs.com
@@ -409,6 +410,10 @@
 127.0.0.1  sb.voicefive.com
 127.0.0.1  imasdk.googleapis.com
 127.0.0.1  s.youtube.com
+127.0.0.1  applovin.com
+127.0.0.1  ms.applovin.com
+127.0.0.1  d.applvn.com
+127.0.0.1  rt.applvn.com
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
