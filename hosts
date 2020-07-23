@@ -1,7 +1,6 @@
 # PUSH/TRACK
 127.0.0.1  play.googleapis.com 
 127.0.0.1  jpush.cn
-127.0.0.1  *.jpush.cn
 127.0.0.1  bjuser.jpush.cn
 127.0.0.1  gd-stats.jpush.cn
 127.0.0.1  sec.umeng.com
@@ -40,6 +39,11 @@
 127.0.0.1  beacon.tingyun.com
 127.0.0.1  ddz.appcoo.com 
 127.0.0.1  redirect.networkbench.com 
+127.0.0.1  hotjar.com
+127.0.0.1  vars.hotjar.com
+127.0.0.1  ws3.hotjar.com
+127.0.0.1  insights.hotjar.com
+127.0.0.1  script.hotjar.com
 # 百度
 127.0.0.1  ada.baidu.com
 127.0.0.1  cjie.baidu.com 
@@ -103,6 +107,7 @@
 127.0.0.1  umc.danuoyi.alicdn.com
 127.0.0.1  fourier.taobao.com 
 127.0.0.1  gma.alicdn.com 
+127.0.0.1  tns.simba.taobao.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
