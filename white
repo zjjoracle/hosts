@@ -2,15 +2,15 @@
 127.0.0.1  wgo.mmstat.com
 
 # 日历-法定节假日数据更新
-api.comm.miui.com
+127.0.0.1  api.comm.miui.com
 
 # 手机管家-骚扰拦截-规则
-api.sec.miui.com
+127.0.0.1  api.sec.miui.com
 
 # 手机管家-清理垃圾-猎豹规则
-up.cm.ksmobile.com
+127.0.0.1  up.cm.ksmobile.com
 
 # 系统同步-常用语
-pdc.micloud.xiaomi.net
+127.0.0.1  pdc.micloud.xiaomi.net
 
 
