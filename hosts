@@ -1,4 +1,5 @@
 # PUSH/TRACK
+127.0.0.1  play.googleapis.com 
 127.0.0.1  jpush.cn
 127.0.0.1  *.jpush.cn
 127.0.0.1  bjuser.jpush.cn
@@ -260,6 +261,7 @@
 127.0.0.1  baiducdncmn2.inter.iqiyi.com 
 127.0.0.1  ucloudcdncmnet.inter.iqiyi.com
 127.0.0.1  cmts.iqiyi.com 
+127.0.0.1  cards.iqiyi.com 
 #金山
 127.0.0.1  behacdn.ksmobile.net
 127.0.0.1  cfg.cml.ksmobile.com
@@ -362,8 +364,16 @@
 127.0.0.1  piwik.caiyunapp.com
 127.0.0.1  spay365.com 
 127.0.0.1  dsp.spay365.com 
+127.0.0.1  dspcloud.spay365.com 
 127.0.0.1  stat.izuiyou.com 
 127.0.0.1  stat.peopleapp.com 
+127.0.0.1  adstatic.peopleapp.com 
+127.0.0.1  cmvideo.cn 
+127.0.0.1  img.cmvideo.cn 
+127.0.0.1  wapx.cmvideo.cn 
+127.0.0.1  portal.cdn.cmvideo.cn 
+127.0.0.1  wasuott.itv.cmvideo.cn
+127.0.0.1  icntvsns.itv.cmvideo.cn 
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
