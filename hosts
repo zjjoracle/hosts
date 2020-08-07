@@ -3,6 +3,7 @@
 127.0.0.1  jpush.cn
 127.0.0.1  bjuser.jpush.cn
 127.0.0.1  gd-stats.jpush.cn
+127.0.0.1  uop.umeng.com 
 127.0.0.1  sec.umeng.com
 127.0.0.1  alog.umeng.com
 127.0.0.1  ulogs.umeng.com
@@ -23,6 +24,7 @@
 127.0.0.1  api.exc.mob.com
 127.0.0.1  f.gm.mob.com
 127.0.0.1  crashlytics.com
+127.0.0.1  settings.crashlytics.col 
 127.0.0.1  e.crashlytics.com
 127.0.0.1  reports.crashlytics.com
 127.0.0.1  settings.crashlytics.com
@@ -67,6 +69,7 @@
 127.0.0.1  sofire.bdstatic.com
 127.0.0.1  nj.t.bcsp2p.baidu.com
 127.0.0.1  log.nuomi.com
+127.0.0.1  wkctj.baidu.com
 # 阿里 
 127.0.0.1  zconfig.alibabausercontent.com
 127.0.0.1  acs4baichuan.m.taobao.com
@@ -183,6 +186,10 @@
 127.0.0.1  wspeed.qq.com
 127.0.0.1  cdn.ark.qq.com
 127.0.0.1  log.qvb.qcloud.com 
+127.0.0.1  qqpublic.qpic.cn 
+127.0.0.1  analytics.map.qq.com
+127.0.0.1  cgi.connect.qq.com 
+127.0.0.1  push.pgl.qq.com 
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -202,6 +209,7 @@
 127.0.0.1  analytics.163.com
 127.0.0.1  h5.analytics.126.net
 127.0.0.1  lbs.netease.im
+127.0.0.1  channel.m.163.com
 # 小米 
 127.0.0.1  api-analytics.huami.com
 127.0.0.1  ad.xiaomi.com
@@ -281,6 +289,7 @@
 127.0.0.1  cloudservice14.kingsoft-office-service.com
 127.0.0.1  gcm.ksmobile.net
 127.0.0.1  cmplay.did.ijinshan.com
+127.0.0.1  dw-online.ksosoft.com 
 #哔哩哔哩
 127.0.0.1  cm.bilibili.com
 127.0.0.1  data.bilibili.com
@@ -432,6 +441,8 @@
 127.0.0.1  ms.applovin.com
 127.0.0.1  d.applvn.com
 127.0.0.1  rt.applvn.com
+127.0.0.1  browser-update.org
+127.0.0.1  mxvp-feature-toggle-prod-1.zenmxapps.com
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
