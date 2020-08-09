@@ -231,8 +231,6 @@
 127.0.0.1  r.browser.miui.com
 127.0.0.1  nav.browser.miui.com
 127.0.0.1  hd.browser.miui.com
-# 127.0.0.1  sug.browser.miui.com
-# 127.0.0.1  exp.sug.browser.miui.com
 127.0.0.1  api.browser.miui.com
 127.0.0.1  httpdns.browser.miui.com
 127.0.0.1  cnbj1.fds.api.xiaomi.com
@@ -246,7 +244,7 @@
 127.0.0.1  trial.open.mp.huangye.miui.com
 127.0.0.1  web.huangye.miui.com
 127.0.0.1  st.huangye.miui.com
-127.0.0.1  weatherapi.market.xiaomi.com
+# 127.0.0.1  weatherapi.market.xiaomi.com
 127.0.0.1  api.comm.miui.com
 127.0.0.1  reader.browser.duokan.com
 127.0.0.1  api.brs.intl.miui.com
