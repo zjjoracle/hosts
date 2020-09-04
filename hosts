@@ -1,3 +1,6 @@
+# AD
+127.0.0.1  ads.oway.mobi 
+127.0.0.1  buysellads.net 
 # PUSH/TRACK
 127.0.0.1  play.googleapis.com 
 127.0.0.1  jpush.cn
@@ -31,6 +34,7 @@
 127.0.0.1  jpush.cn
 127.0.0.1  ce3e75d5.jpush.cn
 127.0.0.1  jiguang.cn
+127.0.0.1  stat-srv.jiguang.cn 
 127.0.0.1  sdk.verification.jiguang.cn
 127.0.0.1  getui.com
 127.0.0.1  gs.getui.com
@@ -47,6 +51,10 @@
 127.0.0.1  ws3.hotjar.com
 127.0.0.1  insights.hotjar.com
 127.0.0.1  script.hotjar.com
+127.0.0.1  exosrv.com
+127.0.0.1  shuzilm.cn 
+127.0.0.1  d2api.shuzilm.cn 
+127.0.0.1  dcc.shuzilm.cn 
 # 百度
 127.0.0.1  sp1.baidu.com 
 127.0.0.1  t7.baidu.com
@@ -326,6 +334,9 @@
 127.0.0.1  etl-xlmc-ssl.xunlei.com
 127.0.0.1  api-u-ssl.xunlei.com
 127.0.0.1  watch.advertising.speed.cdn.vip.xunlei.com
+127.0.0.1  stat.download.xunlei.com 
+127.0.0.1  xladapi.izuiyou.com 
+127.0.0.1  xlstat.izuiyou.com
 # UC
 127.0.0.1  applog.uc.cn
 127.0.0.1  image.uczzd.cn
@@ -484,6 +495,12 @@
 127.0.0.1  wap.cmpassport.com
 127.0.0.1  cmpassport.com
 127.0.0.1  smsks1.cmpassport.com
+127.0.0.1  config.cmpassport.com 
+127.0.0.1  onekey.cmpassport.com 
+127.0.0.1  www.cmpassport.com 
+127.0.0.1  open.e.189.cn 
+127.0.0.1  onepass.geetest.com 
+127.0.0.1  opencloud.wostore.cn 
 127.0.0.1  ulflash.253.com
 127.0.0.1  flash.253.com
 # httpcanary
