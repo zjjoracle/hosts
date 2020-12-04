@@ -42,6 +42,7 @@
 127.0.0.1  geyan.getui.com
 127.0.0.1  lc.getui.com
 127.0.0.1  sdk.conf.getui.com
+127.0.0.1  c-gtc.getui.com 
 127.0.0.1  analysys.cn 
 127.0.0.1  rturd490.analysys.cn 
 127.0.0.1  beacon.tingyun.com
@@ -56,6 +57,8 @@
 127.0.0.1  shuzilm.cn 
 127.0.0.1  d2api.shuzilm.cn 
 127.0.0.1  dcc.shuzilm.cn 
+127.0.0.1  effirst.com 
+127.0.0.1  px.effirst.com 
 # 百度
 127.0.0.1  sp1.baidu.com 
 127.0.0.1  t7.baidu.com
@@ -89,6 +92,8 @@
 127.0.0.1  cstm.baidu.com
 127.0.0.1  issuecdn.baidupcs.com 
 127.0.0.1  tuisong.baidu.com 
+127.0.0.1  pimlog.baidu.com 
+127.0.0.1  feed-image.baidu.com 
 # 阿里 
 127.0.0.1  zconfig.alibabausercontent.com
 127.0.0.1  acs4baichuan.m.taobao.com
@@ -134,6 +139,7 @@
 127.0.0.1  tns.simba.taobao.com
 127.0.0.1  ilce.alicdn.com 
 127.0.0.1  pss.alicdn.com 
+127.0.0.1  beacon-api.aliyuncs.com 
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -434,6 +440,9 @@
 127.0.0.1  s6.irs03.com 
 127.0.0.1  vali.cp31.ott.cibntv.net 
 127.0.0.1  127.0.0.1caiyunapp.com 
+127.0.0.1  log.kuwo.cn 
+127.0.0.1  ykad-gateway.youku.com
+127.0.0.1  hdbaichuan.cn 
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
