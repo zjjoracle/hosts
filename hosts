@@ -4,6 +4,7 @@
 # PUSH/TRACK
 127.0.0.1  play.googleapis.com 
 127.0.0.1  jpush.cn
+127.0.0.1  fcapi.jpush.cn 
 127.0.0.1  bjuser.jpush.cn
 127.0.0.1  gd-stats.jpush.cn
 127.0.0.1  uop.umeng.com 
@@ -94,6 +95,7 @@
 127.0.0.1  tuisong.baidu.com 
 127.0.0.1  pimlog.baidu.com 
 127.0.0.1  feed-image.baidu.com 
+127.0.0.1  paimgcdn-feed.baidu.com 
 # 阿里 
 127.0.0.1  zconfig.alibabausercontent.com
 127.0.0.1  acs4baichuan.m.taobao.com
@@ -120,6 +122,8 @@
 127.0.0.1  fenbi-app-log.cn-beijing.log.aliyuncs.com
 127.0.0.1  client-upload.cn-shanghai.log.aliyuncs.com
 127.0.0.1  impaas-for-client.cn-shanghai.log.aliyuncs.com
+127.0.0.1  wenjuan.cn-hangzhou.log.aliyuncs.com
+127.0.0.1  javaservicelog.cn-shanghai.log.aliyuncs.com
 127.0.0.1  dorangesource.alicdn.com
 127.0.0.1  tmge.alicdn.com
 127.0.0.1  nbsdk-baichuan.alicdn.com
@@ -440,9 +444,14 @@
 127.0.0.1  s6.irs03.com 
 127.0.0.1  vali.cp31.ott.cibntv.net 
 127.0.0.1  127.0.0.1caiyunapp.com 
+127.0.0.1  msphoneclick.kuwo.cn 
 127.0.0.1  log.kuwo.cn 
 127.0.0.1  ykad-gateway.youku.com
 127.0.0.1  hdbaichuan.cn 
+127.0.0.1  audioadx.com
+127.0.0.1  owads.audioadx.com 
+127.0.0.1  ntalker.com 
+127.0.0.1  book-4geoe0dkee1796e3-1251611979.tcloudbaseapp.com
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
