@@ -144,6 +144,7 @@
 127.0.0.1  ilce.alicdn.com 
 127.0.0.1  pss.alicdn.com 
 127.0.0.1  beacon-api.aliyuncs.com 
+127.0.0.1  appdownload.alicdn.com 
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -235,6 +236,7 @@
 127.0.0.1  knicks.jd.com
 127.0.0.1  mars.jd.com
 127.0.0.1  policy.jd.com
+127.0.0.1  wlmonitor.m.jd.com
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -322,6 +324,7 @@
 127.0.0.1  ucloudcdncmnet.inter.iqiyi.com
 127.0.0.1  cmts.iqiyi.com 
 127.0.0.1  cards.iqiyi.com 
+127.0.0.1  cards-css.iqiyi.com 
 #金山
 127.0.0.1  behacdn.ksmobile.net
 127.0.0.1  cfg.cml.ksmobile.com
@@ -452,6 +455,8 @@
 127.0.0.1  owads.audioadx.com 
 127.0.0.1  ntalker.com 
 127.0.0.1  book-4geoe0dkee1796e3-1251611979.tcloudbaseapp.com
+127.0.0.1  koowo.com 
+127.0.0.1  sugs.m.sm.cn 
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
@@ -480,6 +485,7 @@
 127.0.0.1  mythings.com
 127.0.0.1  olc0.cn
 127.0.0.1  pcs-op.douyucdn.cn
+127.0.0.1  cs-op.douyucdn.cn 
 127.0.0.1  sub.ykimg.com
 127.0.0.1  trafficjunky.net
 127.0.0.1  api.ktplay.com
@@ -509,6 +515,7 @@
 127.0.0.1  media.trafficjunky.com 
 127.0.0.1  apptornado.com 
 127.0.0.1  sdk-b.apptornado.com 
+127.0.0.1  csi.gstatic.com 
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
@@ -558,3 +565,6 @@
 127.0.0.1  tobapplog.ctobsnssdk.com
 127.0.0.1  api.moblink.mob.com
 127.0.0.1  mob.com
+127.0.0.1  api.fc.mob.com
+127.0.0.1  api.fd.mob.com 
+
