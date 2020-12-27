@@ -7,6 +7,7 @@
 127.0.0.1  fcapi.jpush.cn 
 127.0.0.1  bjuser.jpush.cn
 127.0.0.1  gd-stats.jpush.cn
+127.0.0.1  config.jpush.cn
 127.0.0.1  uop.umeng.com 
 127.0.0.1  sec.umeng.com
 127.0.0.1  alog.umeng.com
@@ -178,6 +179,7 @@
 127.0.0.1  canvas.gdt.qq.com
 127.0.0.1  ipv4.gdt.qq.com
 127.0.0.1  v2.gdt.qq.com
+127.0.0.1  free-v2.gdt.qq.com
 127.0.0.1  mdt.qq.com
 127.0.0.1  oth.eve.mdt.qq.com
 127.0.0.1  oth.str.mdt.qq.com
@@ -307,6 +309,7 @@
 127.0.0.1  update.avlyun.sec.miui.com 
 127.0.0.1  hot.browser.miui.com 
 127.0.0.1  weatherapi.market.xiaomi.com
+127.0.0.1  sec.resource.xiaomi.net
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -325,6 +328,7 @@
 127.0.0.1  cmts.iqiyi.com 
 127.0.0.1  cards.iqiyi.com 
 127.0.0.1  cards-css.iqiyi.com 
+127.0.0.1  monitor.vip.iqiyi.com 
 #金山
 127.0.0.1  behacdn.ksmobile.net
 127.0.0.1  cfg.cml.ksmobile.com
@@ -445,6 +449,7 @@
 127.0.0.1  icntvsns.itv.cmvideo.cn 
 127.0.0.1  browser.sentry-cdn.com 
 127.0.0.1  s6.irs03.com 
+127.0.0.1  s4.irs03.com 
 127.0.0.1  vali.cp31.ott.cibntv.net 
 127.0.0.1  127.0.0.1caiyunapp.com 
 127.0.0.1  msphoneclick.kuwo.cn 
@@ -503,6 +508,8 @@
 127.0.0.1  pp8.com
 127.0.0.1  sb.voicefive.com
 127.0.0.1  imasdk.googleapis.com
+127.0.0.1  firebaselogging-pa.googleapis.com 
+127.0.0.1  footprints-pa.googleapis.com 
 127.0.0.1  s.youtube.com
 127.0.0.1  applovin.com
 127.0.0.1  ms.applovin.com
@@ -516,6 +523,14 @@
 127.0.0.1  apptornado.com 
 127.0.0.1  sdk-b.apptornado.com 
 127.0.0.1  csi.gstatic.com 
+127.0.0.1  eu-srv.apptornado.com 
+127.0.0.1  global.appnext.com 
+127.0.0.1  gridsumdissector.com 
+127.0.0.1  i.tddmp.com 
+127.0.0.1  log.flight.qunar.com 
+127.0.0.1  ssl.gridsumdissector.com 
+127.0.0.1  statics.woozooo.com
+127.0.0.1  tracking.mcdonalds.com.cn
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
@@ -548,6 +563,7 @@
 127.0.0.1  config.cmpassport.com 
 127.0.0.1  onekey.cmpassport.com 
 127.0.0.1  www.cmpassport.com 
+127.0.0.1  onekey1.cmpassport.com
 127.0.0.1  open.e.189.cn 
 127.0.0.1  onepass.geetest.com 
 127.0.0.1  opencloud.wostore.cn 
