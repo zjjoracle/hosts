@@ -277,6 +277,7 @@
 127.0.0.1  data.sec.miui.com
 127.0.0.1  auth.be.sec.miui.com
 127.0.0.1  api.miui.security.xiaomi.com
+127.0.0.1  browser.miui.com
 127.0.0.1  r.browser.miui.com
 127.0.0.1  nav.browser.miui.com
 127.0.0.1  hd.browser.miui.com
@@ -462,6 +463,7 @@
 127.0.0.1  book-4geoe0dkee1796e3-1251611979.tcloudbaseapp.com
 127.0.0.1  koowo.com 
 127.0.0.1  sugs.m.sm.cn 
+127.0.0.1  bigdata.client.189.cn 
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
@@ -522,9 +524,11 @@
 127.0.0.1  media.trafficjunky.com 
 127.0.0.1  apptornado.com 
 127.0.0.1  sdk-b.apptornado.com 
+127.0.0.1  applift-a.apptornado.com 
 127.0.0.1  csi.gstatic.com 
 127.0.0.1  eu-srv.apptornado.com 
 127.0.0.1  global.appnext.com 
+127.0.0.1  cdn.appnext.com
 127.0.0.1  gridsumdissector.com 
 127.0.0.1  i.tddmp.com 
 127.0.0.1  log.flight.qunar.com 
@@ -583,4 +587,6 @@
 127.0.0.1  mob.com
 127.0.0.1  api.fc.mob.com
 127.0.0.1  api.fd.mob.com 
+
+
 
