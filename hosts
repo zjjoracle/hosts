@@ -8,6 +8,7 @@
 127.0.0.1  bjuser.jpush.cn
 127.0.0.1  gd-stats.jpush.cn
 127.0.0.1  config.jpush.cn
+127.0.0.1  ce3e75d5.jpush.cn
 127.0.0.1  errlog.umeng.com 
 127.0.0.1  uop.umeng.com 
 127.0.0.1  sec.umeng.com
@@ -35,8 +36,6 @@
 127.0.0.1  reports.crashlytics.com
 127.0.0.1  settings.crashlytics.com
 127.0.0.1  firebase-settings.crashlytics.com
-127.0.0.1  jpush.cn
-127.0.0.1  ce3e75d5.jpush.cn
 127.0.0.1  jiguang.cn
 127.0.0.1  stat-srv.jiguang.cn 
 127.0.0.1  sdk.verification.jiguang.cn
@@ -425,7 +424,6 @@
 127.0.0.1  changyan.itc.cn
 127.0.0.1  changyan.sohu.com
 127.0.0.1  track.sohu.com
-127.0.0.1  push.it.10086.cn
 127.0.0.1  beacon.ztgame.com
 127.0.0.1  norma-external-collect.meizu.com
 127.0.0.1  pv.sohu.com
@@ -588,6 +586,7 @@
 127.0.0.1  flash.253.com
 127.0.0.1  go.10086.cn 
 127.0.0.1  rd.go.10086.cn 
+127.0.0.1  push.it.10086.cn
 # httpcanary
 127.0.0.1  3lift.com
 127.0.0.1  eb2.3lift.com
