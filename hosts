@@ -8,6 +8,7 @@
 127.0.0.1  bjuser.jpush.cn
 127.0.0.1  gd-stats.jpush.cn
 127.0.0.1  config.jpush.cn
+127.0.0.1  errlog.umeng.com 
 127.0.0.1  uop.umeng.com 
 127.0.0.1  sec.umeng.com
 127.0.0.1  alog.umeng.com
@@ -61,6 +62,7 @@
 127.0.0.1  dcc.shuzilm.cn 
 127.0.0.1  effirst.com 
 127.0.0.1  px.effirst.com 
+127.0.0.1  device-api.urbanairship.com 
 # 百度
 127.0.0.1  sp1.baidu.com 
 127.0.0.1  t7.baidu.com
@@ -146,6 +148,10 @@
 127.0.0.1  pss.alicdn.com 
 127.0.0.1  beacon-api.aliyuncs.com 
 127.0.0.1  appdownload.alicdn.com 
+127.0.0.1  dorangesource.alicdn.com 
+127.0.0.1  aliapp.org 
+127.0.0.1  cdn.ynuf.aliapp.org 
+127.0.0.1  odin.re.taobao.com 
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -231,6 +237,9 @@
 127.0.0.1  minorshort.weixin.qq.com 
 127.0.0.1  othstr.beacon.qq.com 
 127.0.0.1  tracker-01.qvb.qcloud.com 
+127.0.0.1  active-appmedia.gdt.qq.com 
+127.0.0.1  ugdtimg.com
+127.0.0.1  free-pgdt.ugdtimg.com 
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -311,6 +320,7 @@
 127.0.0.1  hot.browser.miui.com 
 127.0.0.1  weatherapi.market.xiaomi.com
 127.0.0.1  sec.resource.xiaomi.net
+127.0.0.1  a.hl.mi.com 
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -348,6 +358,7 @@
 127.0.0.1  dataflow.biliapi.com
 127.0.0.1  miniapp.bilibili.com
 127.0.0.1  ad-bili-data.biligame.com 
+127.0.0.1  line1-log.biligame.net 
 127.0.0.1  bigfun.cn
 127.0.0.1  passport.bigfun.cn
 127.0.0.1  passport.bigfunapp.cn
@@ -374,6 +385,7 @@
 127.0.0.1  xladapi.izuiyou.com 
 127.0.0.1  xlstat.izuiyou.com
 127.0.0.1  free.advertising.cdn.vip.xunlei.com 
+127.0.0.1  analysis-acc-ssl.xunlei.com 
 # UC
 127.0.0.1  applog.uc.cn
 127.0.0.1  image.uczzd.cn
@@ -464,6 +476,7 @@
 127.0.0.1  koowo.com 
 127.0.0.1  sugs.m.sm.cn 
 127.0.0.1  bigdata.client.189.cn 
+127.0.0.1  mcs.ctobsnssdk.com
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
@@ -559,7 +572,7 @@
 127.0.0.1  ap-alps.51y5.net
 127.0.0.1  config.51y5.net
 127.0.0.1  kepler.51y5.net
-# 一键登录
+# 运营商
 127.0.0.1  log1.cmpassport.com
 127.0.0.1  wap.cmpassport.com
 127.0.0.1  cmpassport.com
@@ -573,6 +586,8 @@
 127.0.0.1  opencloud.wostore.cn 
 127.0.0.1  ulflash.253.com
 127.0.0.1  flash.253.com
+127.0.0.1  go.10086.cn 
+127.0.0.1  rd.go.10086.cn 
 # httpcanary
 127.0.0.1  3lift.com
 127.0.0.1  eb2.3lift.com
@@ -587,6 +602,5 @@
 127.0.0.1  mob.com
 127.0.0.1  api.fc.mob.com
 127.0.0.1  api.fd.mob.com 
-
-
-
+# 科大讯飞
+127.0.0.1  logconf.iflytek.com 
