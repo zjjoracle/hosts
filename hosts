@@ -62,6 +62,7 @@
 127.0.0.1  effirst.com 
 127.0.0.1  px.effirst.com 
 127.0.0.1  device-api.urbanairship.com 
+127.0.0.1  ip-api.com
 # 百度
 127.0.0.1  sp1.baidu.com 
 127.0.0.1  t7.baidu.com
@@ -366,7 +367,7 @@
 127.0.0.1  sdkauth.hpplay.cn
 127.0.0.1  devicemgr.hpplay.cn
 127.0.0.1  sdk.api.oaid.wocloud.cn
-127.0.0.1  ip-api.com miniapp.bilibili.com 
+127.0.0.1  miniapp.bilibili.com 
 #迅雷
 127.0.0.1  api-mcp.adsp.xunlei.com
 127.0.0.1  soagw.pw.xunlei.com
