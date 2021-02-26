@@ -150,6 +150,7 @@
 127.0.0.1  aliapp.org 
 127.0.0.1  cdn.ynuf.aliapp.org 
 127.0.0.1  odin.re.taobao.com 
+127.0.0.1  px.ucweb.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -238,6 +239,8 @@
 127.0.0.1  active-appmedia.gdt.qq.com 
 127.0.0.1  ugdtimg.com
 127.0.0.1  free-pgdt.ugdtimg.com 
+127.0.0.1  tdid.m.qq.com 
+127.0.0.1  tracker-01.qvb.qcloud.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -246,6 +249,7 @@
 127.0.0.1  mars.jd.com
 127.0.0.1  policy.jd.com
 127.0.0.1  wlmonitor.m.jd.com
+127.0.0.1  dg.k.jd.com
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -362,6 +366,7 @@
 127.0.0.1  sdkauth.hpplay.cn
 127.0.0.1  devicemgr.hpplay.cn
 127.0.0.1  sdk.api.oaid.wocloud.cn
+127.0.0.1  ip-api.com miniapp.bilibili.com 
 #迅雷
 127.0.0.1  api-mcp.adsp.xunlei.com
 127.0.0.1  soagw.pw.xunlei.com
@@ -542,6 +547,13 @@
 127.0.0.1  ssl.gridsumdissector.com 
 127.0.0.1  statics.woozooo.com
 127.0.0.1  tracking.mcdonalds.com.cn
+127.0.0.1  deliver.ptgncdn.com 
+127.0.0.1  stat.openinstall.io 
+127.0.0.1  api.openinstall.io
+127.0.0.1  ad-dsp-1251779293.cos.ap-guangzhou.myqcloud.com
+127.0.0.1  i.gridsumdissector.com 
+127.0.0.1  push.df0535.cn 
+127.0.0.1  vortex.data.microsoft.com 
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
