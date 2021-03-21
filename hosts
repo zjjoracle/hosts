@@ -1,6 +1,8 @@
 # AD
 127.0.0.1  ads.oway.mobi 
 127.0.0.1  buysellads.net 
+127.0.0.1  adapi.pandabus.cn 
+127.0.0.1  config.unityads.unitychina.cn 
 # PUSH/TRACK
 127.0.0.1  play.googleapis.com 
 127.0.0.1  jpush.cn
@@ -152,6 +154,8 @@
 127.0.0.1  cdn.ynuf.aliapp.org 
 127.0.0.1  odin.re.taobao.com 
 127.0.0.1  px.ucweb.com
+127.0.0.1  hd.mmstat.com 
+127.0.0.1  fourier.taobao.com 
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -242,6 +246,8 @@
 127.0.0.1  free-pgdt.ugdtimg.com 
 127.0.0.1  tdid.m.qq.com 
 127.0.0.1  tracker-01.qvb.qcloud.com
+127.0.0.1  iwx.mail.qq.com 
+127.0.0.1  pingmid.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -251,6 +257,7 @@
 127.0.0.1  policy.jd.com
 127.0.0.1  wlmonitor.m.jd.com
 127.0.0.1  dg.k.jd.com
+127.0.0.1  gia.jd.com 
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -303,7 +310,6 @@
 127.0.0.1  trial.open.mp.huangye.miui.com
 127.0.0.1  web.huangye.miui.com
 127.0.0.1  st.huangye.miui.com
-# 127.0.0.1  weatherapi.market.xiaomi.com
 127.0.0.1  api.comm.miui.com
 127.0.0.1  reader.browser.duokan.com
 127.0.0.1  api.brs.intl.miui.com
@@ -321,6 +327,8 @@
 127.0.0.1  weatherapi.market.xiaomi.com
 127.0.0.1  sec.resource.xiaomi.net
 127.0.0.1  a.hl.mi.com 
+127.0.0.1  hd.browser.miui.com 
+127.0.0.1  api.sec.miui.com
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -366,6 +374,7 @@
 127.0.0.1  imdns.hpplay.cn
 127.0.0.1  sdkauth.hpplay.cn
 127.0.0.1  devicemgr.hpplay.cn
+127.0.0.1  rp.hpplay.cn
 127.0.0.1  sdk.api.oaid.wocloud.cn
 127.0.0.1  miniapp.bilibili.com 
 #迅雷
