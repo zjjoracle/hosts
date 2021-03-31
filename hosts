@@ -100,7 +100,8 @@
 127.0.0.1  tuisong.baidu.com 
 127.0.0.1  pimlog.baidu.com 
 127.0.0.1  feed-image.baidu.com 
-127.0.0.1  paimgcdn-feed.baidu.com 
+127.0.0.1  paimgcdn-feed.baidu.com
+127.0.0.1  dlswbr.baidu.com
 # 阿里 
 127.0.0.1  zconfig.alibabausercontent.com
 127.0.0.1  acs4baichuan.m.taobao.com
@@ -377,6 +378,7 @@
 127.0.0.1  rp.hpplay.cn
 127.0.0.1  sdk.api.oaid.wocloud.cn
 127.0.0.1  miniapp.bilibili.com 
+127.0.0.1  live-trace.bilibili.com 
 #迅雷
 127.0.0.1  api-mcp.adsp.xunlei.com
 127.0.0.1  soagw.pw.xunlei.com
@@ -487,6 +489,10 @@
 127.0.0.1  sugs.m.sm.cn 
 127.0.0.1  bigdata.client.189.cn 
 127.0.0.1  mcs.ctobsnssdk.com
+127.0.0.1  gift.douyucdn.cn 
+127.0.0.1  resu8.hjfile.cn 
+127.0.0.1  track.hujiang.com 
+127.0.0.1  trackcommon.hujiang.com
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
