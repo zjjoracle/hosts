@@ -19,6 +19,8 @@
 127.0.0.1  plbslog.umeng.com
 127.0.0.1  alog.umeng.co
 127.0.0.1  ulogs.umengcloud.com
+127.0.0.1  aaid.umeng.com 
+127.0.0.1  ai.login.umeng.com 
 127.0.0.1  flurry.com
 127.0.0.1  cfg.flurry.com
 127.0.0.1  data.flurry.com
@@ -32,6 +34,7 @@
 127.0.0.1  gv1.xdrig.com
 127.0.0.1  api.exc.mob.com
 127.0.0.1  f.gm.mob.com
+127.0.0.1  init.sms.mob.com 
 127.0.0.1  api.applink.mob.com 
 127.0.0.1  crashlytics.com
 127.0.0.1  e.crashlytics.com
@@ -46,7 +49,12 @@
 127.0.0.1  geyan.getui.com
 127.0.0.1  lc.getui.com
 127.0.0.1  sdk.conf.getui.com
+127.0.0.1  b-gtc.getui.com 
 127.0.0.1  c-gtc.getui.com 
+127.0.0.1  b-gtc.getui.net 
+127.0.0.1  c-gtc.getui.net 
+127.0.0.1  b-gtc.gepush.com 
+127.0.0.1  c-gtc.gepush.com
 127.0.0.1  analysys.cn 
 127.0.0.1  rturd490.analysys.cn 
 127.0.0.1  beacon.tingyun.com
@@ -129,6 +137,7 @@
 127.0.0.1  impaas-for-client.cn-shanghai.log.aliyuncs.com
 127.0.0.1  wenjuan.cn-hangzhou.log.aliyuncs.com
 127.0.0.1  javaservicelog.cn-shanghai.log.aliyuncs.com
+127.0.0.1  tap-snow.cn-beijing.log.aliyuncs.com 
 127.0.0.1  dorangesource.alicdn.com
 127.0.0.1  tmge.alicdn.com
 127.0.0.1  nbsdk-baichuan.alicdn.com
@@ -249,6 +258,8 @@
 127.0.0.1  tracker-01.qvb.qcloud.com
 127.0.0.1  iwx.mail.qq.com 
 127.0.0.1  pingmid.qq.com
+127.0.0.1  free-vr.gdt.qq.com 
+127.0.0.1  log.qvb.qcloud.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -410,11 +421,14 @@
 127.0.0.1  f.s.360.cn
 127.0.0.1  m3.s.360.cn
 127.0.0.1  sdk.s.360.cn
+#TAPTAP
+127.0.0.1  sense-cn01.tapdb.net
+127.0.0.1  e.tapdb.net 
 # 快手系
 127.0.0.1  api.kwaizt.com
 127.0.0.1  apilog.app.acfun.cn
 127.0.0.1  umc.danuoyi.alicdn.com
-# 头条系屏蔽
+# 头条系
 127.0.0.1  is.snssdk.com
 127.0.0.1  log.snssdk.com
 127.0.0.1  xlog.snssdk.com
@@ -430,6 +444,8 @@
 127.0.0.1  mcs.snssdk.com
 127.0.0.1  pangolin.snssdk.com
 127.0.0.1  api-access-lq.pangolin-sdk-toutiao.com
+127.0.0.1  tobapplog.ctobsnssdk.com 
+127.0.0.1  mcs.ctobsnssdk.com
 #国内
 127.0.0.1  yyzyupdate.ztgame.com.cn
 127.0.0.1  zhihu-web-analytics.zhihu.com
@@ -457,6 +473,9 @@
 127.0.0.1  ta.pinduoduo.com
 127.0.0.1  worldwide.sogou.com
 127.0.0.1  register.appsflyer.com
+127.0.0.1  conversions.appsflyer.com
+127.0.0.1  dlsdk.appsflyer.com
+127.0.0.1  gcdsdk.appsflyer.com 
 127.0.0.1  log.iflytek.com
 127.0.0.1  sf3-ttcdn-tos.pstatp.com
 127.0.0.1  piwik.caiyunapp.com
@@ -488,11 +507,15 @@
 127.0.0.1  koowo.com 
 127.0.0.1  sugs.m.sm.cn 
 127.0.0.1  bigdata.client.189.cn 
-127.0.0.1  mcs.ctobsnssdk.com
 127.0.0.1  gift.douyucdn.cn 
 127.0.0.1  resu8.hjfile.cn 
 127.0.0.1  track.hujiang.com 
 127.0.0.1  trackcommon.hujiang.com
+127.0.0.1  dualstack-logs.amap.com
+127.0.0.1  ads.api.lerist.cc
+127.0.0.1  zlink6.com
+127.0.0.1  s.zlink6.com
+127.0.0.1  xlog.tiktokv.com
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
@@ -571,6 +594,8 @@
 127.0.0.1  i.gridsumdissector.com 
 127.0.0.1  push.df0535.cn 
 127.0.0.1  vortex.data.microsoft.com 
+127.0.0.1  events.mapbox.com
+127.0.0.1  accuweathertmobile.onelink.me 
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
