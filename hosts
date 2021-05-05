@@ -3,6 +3,9 @@
 127.0.0.1  buysellads.net 
 127.0.0.1  adapi.pandabus.cn 
 127.0.0.1  config.unityads.unitychina.cn 
+127.0.0.1  8le8le.com 
+127.0.0.1  monitor.ads.8le8le.com
+127.0.0.1  ghb.adtelligent.com 
 # PUSH/TRACK
 127.0.0.1  play.googleapis.com 
 127.0.0.1  jpush.cn
@@ -36,6 +39,7 @@
 127.0.0.1  f.gm.mob.com
 127.0.0.1  init.sms.mob.com 
 127.0.0.1  api.applink.mob.com 
+127.0.0.1  log.sms.mob.com 
 127.0.0.1  crashlytics.com
 127.0.0.1  e.crashlytics.com
 127.0.0.1  reports.crashlytics.com
@@ -57,6 +61,8 @@
 127.0.0.1  c-gtc.gepush.com
 127.0.0.1  analysys.cn 
 127.0.0.1  rturd490.analysys.cn 
+127.0.0.1  tingyun.com 
+127.0.0.1  www.tingyun.com
 127.0.0.1  beacon.tingyun.com
 127.0.0.1  ddz.appcoo.com 
 127.0.0.1  redirect.networkbench.com 
@@ -73,6 +79,7 @@
 127.0.0.1  px.effirst.com 
 127.0.0.1  device-api.urbanairship.com 
 127.0.0.1  ip-api.com
+127.0.0.1  umini.shujupie.com
 # 百度
 127.0.0.1  sp1.baidu.com 
 127.0.0.1  t7.baidu.com
@@ -270,6 +277,7 @@
 127.0.0.1  wlmonitor.m.jd.com
 127.0.0.1  dg.k.jd.com
 127.0.0.1  gia.jd.com 
+127.0.0.1  jzt.jd.com 
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -322,6 +330,7 @@
 127.0.0.1  trial.open.mp.huangye.miui.com
 127.0.0.1  web.huangye.miui.com
 127.0.0.1  st.huangye.miui.com
+127.0.0.1  open.mp.huangye.miui.com 
 127.0.0.1  api.comm.miui.com
 127.0.0.1  reader.browser.duokan.com
 127.0.0.1  api.brs.intl.miui.com
@@ -330,16 +339,20 @@
 127.0.0.1  mi.beha.ksmobile.com
 127.0.0.1  beha.ksmobile.com
 127.0.0.1  mivideo.cdn.pandora.xiaomi.com
-127.0.0.1  api.browser.miui.com 
 127.0.0.1  d.g.mi.com 
 127.0.0.1  stats.music.xiaomi.com
 127.0.0.1  update.avlyun.sec.miui.com 
-127.0.0.1  hot.browser.miui.com 
 127.0.0.1  weatherapi.market.xiaomi.com
 127.0.0.1  sec.resource.xiaomi.net
 127.0.0.1  a.hl.mi.com 
-127.0.0.1  hd.browser.miui.com 
 127.0.0.1  api.sec.miui.com
+127.0.0.1  browser.miui.com 
+127.0.0.1  api.browser.miui.com 
+127.0.0.1  hd.browser.miui.com 
+127.0.0.1  qsb.browser.miui.com 
+127.0.0.1  a.stat.xiaomi.com
+127.0.0.1  cn.app.chat.xiaomi.net 
+127.0.0.1  stat.xiaomi.com
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -458,6 +471,10 @@
 127.0.0.1  pv.sohu.com
 127.0.0.1  pmm.people.com.cn
 127.0.0.1  openapi.jiegames.com
+127.0.0.1  networkbench.com 
+127.0.0.1  tyrdl.networkbench.com
+127.0.0.1  tyrd2.networkbench.com
+127.0.0.1  tyrd3.networkbench.com
 127.0.0.1  dc1.networkbench.com
 127.0.0.1  cdn-api.appadhoc.com
 127.0.0.1  feedback.migu.cn
@@ -505,7 +522,6 @@
 127.0.0.1  book-4geoe0dkee1796e3-1251611979.tcloudbaseapp.com
 127.0.0.1  koowo.com 
 127.0.0.1  sugs.m.sm.cn 
-127.0.0.1  bigdata.client.189.cn 
 127.0.0.1  gift.douyucdn.cn 
 127.0.0.1  resu8.hjfile.cn 
 127.0.0.1  track.hujiang.com 
@@ -515,6 +531,8 @@
 127.0.0.1  zlink6.com
 127.0.0.1  s.zlink6.com
 127.0.0.1  xlog.tiktokv.com
+127.0.0.1  trackingprd.hwwt8.com
+127.0.0.1  dig.zjurL.cn 
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
@@ -595,6 +613,9 @@
 127.0.0.1  vortex.data.microsoft.com 
 127.0.0.1  events.mapbox.com
 127.0.0.1  accuweathertmobile.onelink.me 
+127.0.0.1  cdn.carbonads.com 
+127.0.0.1  improving.duckduckgo.com 
+127.0.0.1  in.appcenter.ms 
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
@@ -629,6 +650,8 @@
 127.0.0.1  www.cmpassport.com 
 127.0.0.1  onekey1.cmpassport.com
 127.0.0.1  open.e.189.cn 
+127.0.0.1  webwebfenxi.189.cn
+127.0.0.1  bigdata.client.189.cn 
 127.0.0.1  onepass.geetest.com 
 127.0.0.1  opencloud.wostore.cn 
 127.0.0.1  ulflash.253.com
@@ -636,6 +659,7 @@
 127.0.0.1  go.10086.cn 
 127.0.0.1  rd.go.10086.cn 
 127.0.0.1  push.it.10086.cn
+127.0.0.1  sdc.10086.cn 
 # httpcanary
 127.0.0.1  3lift.com
 127.0.0.1  eb2.3lift.com
@@ -652,3 +676,7 @@
 127.0.0.1  api.fd.mob.com 
 # 科大讯飞
 127.0.0.1  logconf.iflytek.com 
+127.0.0.1  log.voicecloud.cn 
+#华为
+127.0.0.1  data.hicloud.com 
+127.0.0.1  metrics1.data.hicloud.com
