@@ -144,7 +144,9 @@
 127.0.0.1  impaas-for-client.cn-shanghai.log.aliyuncs.com
 127.0.0.1  wenjuan.cn-hangzhou.log.aliyuncs.com
 127.0.0.1  javaservicelog.cn-shanghai.log.aliyuncs.com
-127.0.0.1  tap-snow.cn-beijing.log.aliyuncs.com 
+127.0.0.1  tap-snow.cn-beijing.log.aliyuncs.com
+127.0.0.1  bjy-log.cn-beijjing.log.aliyuncs.com 
+127.0.0.1  threehours-front.cn-zhangjiakou-2.log.aliyuncs.com
 127.0.0.1  dorangesource.alicdn.com
 127.0.0.1  tmge.alicdn.com
 127.0.0.1  nbsdk-baichuan.alicdn.com
@@ -172,7 +174,10 @@
 127.0.0.1  odin.re.taobao.com 
 127.0.0.1  px.ucweb.com
 127.0.0.1  hd.mmstat.com 
-127.0.0.1  fourier.taobao.com 
+127.0.0.1  fourier.taobao.com
+127.0.0.1  ip.taobao.com 
+127.0.0.1  dorangesource.alicdn.com 
+127.0.0.1  fourier.alibaba.com 
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -267,6 +272,7 @@
 127.0.0.1  pingmid.qq.com
 127.0.0.1  free-vr.gdt.qq.com 
 127.0.0.1  log.qvb.qcloud.com
+127.0.0.1  ping.huatuo.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -277,7 +283,9 @@
 127.0.0.1  wlmonitor.m.jd.com
 127.0.0.1  dg.k.jd.com
 127.0.0.1  gia.jd.com 
-127.0.0.1  jzt.jd.com 
+127.0.0.1  jzt.jd.com
+127.0.0.1  blackhole.m.jd.com 
+127.0.0.1  firevent.jd.com 
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -353,6 +361,8 @@
 127.0.0.1  a.stat.xiaomi.com
 127.0.0.1  cn.app.chat.xiaomi.net 
 127.0.0.1  stat.xiaomi.com
+127.0.0.1  t.track.ad.xiaomi.com
+127.0.0.1  hot.browser.miui.com 
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -371,7 +381,8 @@
 127.0.0.1  cmts.iqiyi.com 
 127.0.0.1  cards.iqiyi.com 
 127.0.0.1  cards-css.iqiyi.com 
-127.0.0.1  monitor.vip.iqiyi.com 
+127.0.0.1  monitor.vip.iqiyi.com
+127.0.0.1  ouma-api.iqiyi.com
 #金山
 127.0.0.1  behacdn.ksmobile.net
 127.0.0.1  cfg.cml.ksmobile.com
@@ -458,6 +469,7 @@
 127.0.0.1  api-access-lq.pangolin-sdk-toutiao.com
 127.0.0.1  tobapplog.ctobsnssdk.com 
 127.0.0.1  mcs.ctobsnssdk.com
+127.0.0.1  ug.snssdk.com 
 #国内
 127.0.0.1  yyzyupdate.ztgame.com.cn
 127.0.0.1  zhihu-web-analytics.zhihu.com
@@ -469,6 +481,7 @@
 127.0.0.1  beacon.ztgame.com
 127.0.0.1  norma-external-collect.meizu.com
 127.0.0.1  pv.sohu.com
+127.0.0.1  api.tv.sohu.com
 127.0.0.1  pmm.people.com.cn
 127.0.0.1  openapi.jiegames.com
 127.0.0.1  networkbench.com 
@@ -615,7 +628,12 @@
 127.0.0.1  accuweathertmobile.onelink.me 
 127.0.0.1  cdn.carbonads.com 
 127.0.0.1  improving.duckduckgo.com 
-127.0.0.1  in.appcenter.ms 
+127.0.0.1  in.appcenter.ms
+127.0.0.1  fplus.funshion.com 
+127.0.0.1  po.funshion.com
+127.0.0.1  pub.funshion.com 
+127.0.0.1  sngdia.imtmp.net 
+127.0.0.1  imtmp.net 
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
@@ -629,6 +647,11 @@
 127.0.0.1  i.mxplayer.j2inter.com
 127.0.0.1  ade.clmbtech.com
 127.0.0.1  ase.clmbtech.com
+# 秒针
+127.0.0.1  miaozhen.com 
+127.0.0.1  pd.ads.cn.miaozhen.com
+127.0.0.1  funshion-mipdx.cn.miaozhen.com
+127.0.0.1  xiaomi-dtv.m.cn.miaozhen.com
 # WIFI万能钥匙
 127.0.0.1  taichi.51y5.net
 127.0.0.1  dcmdaa.51y5.net
@@ -677,6 +700,6 @@
 # 科大讯飞
 127.0.0.1  logconf.iflytek.com 
 127.0.0.1  log.voicecloud.cn 
-#华为
+# 华为
 127.0.0.1  data.hicloud.com 
 127.0.0.1  metrics1.data.hicloud.com
