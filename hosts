@@ -330,9 +330,11 @@
 127.0.0.1  api.iplay.163.com 
 127.0.0.1  clientlog3.music.163.com 
 127.0.0.1  crash.163.com 
+127.0.0.1  api.iplay.163.com
 127.0.0.1  httpdns.n.netease.com
 127.0.0.1  mam.netease.com
 127.0.0.1  lbs.netease.im
+127.0.0.1  hubble.netease.com
 # 小米 
 127.0.0.1  api-analytics.huami.com
 127.0.0.1  ad.xiaomi.com
@@ -415,6 +417,7 @@
 127.0.0.1  cards-css.iqiyi.com 
 127.0.0.1  monitor.vip.iqiyi.com
 127.0.0.1  ouma-api.iqiyi.com
+127.0.0.1  resource.cupid.iqiyi.com
 #金山
 127.0.0.1  behacdn.ksmobile.net
 127.0.0.1  cfg.cml.ksmobile.com
@@ -698,6 +701,7 @@
 127.0.0.1  config.51y5.net
 127.0.0.1  kepler.51y5.net
 127.0.0.1  app.51y5.net
+127.0.0.1  openap-alps.51y5.net
 # 运营商
 127.0.0.1  log1.cmpassport.com
 127.0.0.1  wap.cmpassport.com
