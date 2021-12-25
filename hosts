@@ -9,6 +9,7 @@
 # PUSH/TRACK
 127.0.0.1  play.googleapis.com 
 127.0.0.1  jpush.cn
+127.0.0.1  config-junion.jpush.cn
 127.0.0.1  fcapi.jpush.cn 
 127.0.0.1  bjuser.jpush.cn
 127.0.0.1  gd-stats.jpush.cn
@@ -117,6 +118,8 @@
 127.0.0.1  feed-image.baidu.com 
 127.0.0.1  paimgcdn-feed.baidu.com
 127.0.0.1  dlswbr.baidu.com
+127.0.0.1  tcbox.baidu.com
+127.0.0.1  wkclick.baidu.com
 # 阿里 
 127.0.0.1  zconfig.alibabausercontent.com
 127.0.0.1  acs4baichuan.m.taobao.com
@@ -129,6 +132,10 @@
 127.0.0.1  adashbc.ut.taobao.com
 127.0.0.1  acs.m.taobao.com
 127.0.0.1  sjarvis.taobao.com
+127.0.0.1  umengacs.m.taobao.com
+127.0.0.1  adashxgc.ut.taobao.com
+127.0.0.1  amdcopen.m.taobao.com
+127.0.0.1  h-adashx.ut.taobao.com
 127.0.0.1  mmstat.com
 127.0.0.1  gm.mmstat.com
 127.0.0.1  log.mmstat.com
@@ -161,6 +168,8 @@
 127.0.0.1  amdc.alipay.com
 127.0.0.1  ynuf.alipay.com
 127.0.0.1  ynuf.aliapp.org
+127.0.0.1  umidiot.aliapp.org
+127.0.0.1  collect.alipay.com
 127.0.0.1  audid-api.taobao.com
 127.0.0.1  gvt2.com
 127.0.0.1  beacons.gcp.gvt2.com
@@ -185,6 +194,8 @@
 127.0.0.1  ip.taobao.com 
 127.0.0.1  dorangesource.alicdn.com 
 127.0.0.1  fourier.alibaba.com 
+127.0.0.1  baichuan-sdk.alicdn.com
+127.0.0.1  abtest.alibaba.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -280,6 +291,13 @@
 127.0.0.1  free-vr.gdt.qq.com 
 127.0.0.1  log.qvb.qcloud.com
 127.0.0.1  ping.huatuo.qq.com
+127.0.0.1  oth.str.beacon.qq.com
+127.0.0.1  bksoup.v.qq.com
+127.0.0.1  soup.v.qq.com
+127.0.0.1  stat.y.qq.com
+127.0.0.1  free-c2.gdt.qq.com
+127.0.0.1  guid.tpns.tencent.com
+127.0.0.1  log.tpns.tencent.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -293,6 +311,9 @@
 127.0.0.1  jzt.jd.com
 127.0.0.1  blackhole.m.jd.com 
 127.0.0.1  firevent.jd.com 
+127.0.0.1  orbit.jd.com
+127.0.0.1  mercury.jd.com
+127.0.0.1  dgstatic.jd.com
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -317,10 +338,14 @@
 127.0.0.1  ad.xiaomi.com
 127.0.0.1  m.track.ad.xiaomi.com
 127.0.0.1  sdkconfig.ad.xiaomi.com
+127.0.0.1  weatherapi.market.xiaomi.com
 127.0.0.1  file.market.xiaomi.com
 127.0.0.1  a.market.xiaomi.com
 127.0.0.1  t1.a.market.xiaomi.com
 127.0.0.1  t2.a.market.xiaomi.com
+127.0.0.1  t3.a.market.xiaomi.com
+127.0.0.1  t4.a.market.xiaomi.com
+127.0.0.1  t5.a.market.xiaomi.com
 127.0.0.1  o2o.api.xiaomi.com
 127.0.0.1  resolver.msg.xiaomi.net
 127.0.0.1  data.mistat.xiaomi.com
@@ -357,7 +382,6 @@
 127.0.0.1  d.g.mi.com 
 127.0.0.1  stats.music.xiaomi.com
 127.0.0.1  update.avlyun.sec.miui.com 
-127.0.0.1  weatherapi.market.xiaomi.com
 127.0.0.1  sec.resource.xiaomi.net
 127.0.0.1  a.hl.mi.com 
 127.0.0.1  api.sec.miui.com
@@ -370,6 +394,7 @@
 127.0.0.1  stat.xiaomi.com
 127.0.0.1  t.track.ad.xiaomi.com
 127.0.0.1  hot.browser.miui.com 
+127.0.0.1  ccc.sys.miui.com
 #爱奇艺
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
@@ -451,6 +476,7 @@
 127.0.0.1  f.s.360.cn
 127.0.0.1  m3.s.360.cn
 127.0.0.1  sdk.s.360.cn
+127.0.0.1  c.sayhi.360.cn
 #TAPTAP
 127.0.0.1  sense-cn01.tapdb.net
 127.0.0.1  e.tapdb.net 
@@ -659,6 +685,7 @@
 127.0.0.1  pd.ads.cn.miaozhen.com
 127.0.0.1  funshion-mipdx.cn.miaozhen.com
 127.0.0.1  xiaomi-dtv.m.cn.miaozhen.com
+127.0.0.1  baidu-mipdx.cn.miaozhen.com
 # WIFI万能钥匙
 127.0.0.1  taichi.51y5.net
 127.0.0.1  dcmdaa.51y5.net
@@ -670,6 +697,7 @@
 127.0.0.1  ap-alps.51y5.net
 127.0.0.1  config.51y5.net
 127.0.0.1  kepler.51y5.net
+127.0.0.1  app.51y5.net
 # 运营商
 127.0.0.1  log1.cmpassport.com
 127.0.0.1  wap.cmpassport.com
