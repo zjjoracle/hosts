@@ -129,7 +129,6 @@ tyrd1.networkbench.com
 127.0.0.1  zconfig.alibabausercontent.com
 127.0.0.1  acs4baichuan.m.taobao.com
 127.0.0.1  amdc.m.taobao.com
-127.0.0.1  amdcopen.m.taobao.com
 127.0.0.1  retcode.taobao.com
 127.0.0.1  re.taobao.com
 127.0.0.1  err.taobao.com
@@ -166,7 +165,6 @@ tyrd1.networkbench.com
 127.0.0.1  performance.cn-hangzhou.log.aliyuncs.com
 127.0.0.1  ali-ctf.cn-hangzhou.log.aliyuncs.com
 127.0.0.1  threehours-front.cn-zhangjiakou-2.log.aliyuncs.com
-127.0.0.1  dorangesource.alicdn.com
 127.0.0.1  tmge.alicdn.com
 127.0.0.1  nbsdk-baichuan.alicdn.com
 127.0.0.1  wvcfg.alicdn.com
@@ -182,14 +180,12 @@ tyrd1.networkbench.com
 127.0.0.1  beacons5.gvt3.com
 127.0.0.1  umdc.aliapp.org
 127.0.0.1  umc.danuoyi.alicdn.com
-127.0.0.1  fourier.taobao.com 
 127.0.0.1  gma.alicdn.com 
 127.0.0.1  tns.simba.taobao.com
 127.0.0.1  ilce.alicdn.com 
 127.0.0.1  pss.alicdn.com 
 127.0.0.1  beacon-api.aliyuncs.com 
 127.0.0.1  appdownload.alicdn.com 
-127.0.0.1  dorangesource.alicdn.com 
 127.0.0.1  aliapp.org 
 127.0.0.1  cdn.ynuf.aliapp.org 
 127.0.0.1  odin.re.taobao.com 
@@ -226,7 +222,6 @@ tyrd1.networkbench.com
 127.0.0.1  aexception.bugly.qq.com
 127.0.0.1  c.isdspeed.qq.com
 127.0.0.1  cfg.imtt.qq.com
-127.0.0.1  cgi.connect.qq.com
 127.0.0.1  photo.store.qq.com
 127.0.0.1  xmaterial.tu.qq.com
 127.0.0.1  recmd.html5.qq.com
@@ -278,7 +273,6 @@ tyrd1.networkbench.com
 127.0.0.1  log.qvb.qcloud.com 
 127.0.0.1  qqpublic.qpic.cn 
 127.0.0.1  analytics.map.qq.com
-127.0.0.1  cgi.connect.qq.com 
 127.0.0.1  push.pgl.qq.com 
 127.0.0.1  aegis.qq.com 
 127.0.0.1  sec.video.qq.com 
@@ -286,7 +280,6 @@ tyrd1.networkbench.com
 127.0.0.1  mazu.3g.qq.com 
 127.0.0.1  minorshort.weixin.qq.com 
 127.0.0.1  othstr.beacon.qq.com 
-127.0.0.1  tracker-01.qvb.qcloud.com 
 127.0.0.1  active-appmedia.gdt.qq.com 
 127.0.0.1  ugdtimg.com
 127.0.0.1  free-pgdt.ugdtimg.com 
@@ -336,7 +329,6 @@ tyrd1.networkbench.com
 127.0.0.1  api.iplay.163.com 
 127.0.0.1  clientlog3.music.163.com 
 127.0.0.1  crash.163.com 
-127.0.0.1  api.iplay.163.com
 127.0.0.1  httpdns.n.netease.com
 127.0.0.1  mam.netease.com
 127.0.0.1  lbs.netease.im
@@ -454,7 +446,6 @@ tyrd1.networkbench.com
 127.0.0.1  devicemgr.hpplay.cn
 127.0.0.1  rp.hpplay.cn
 127.0.0.1  sdk.api.oaid.wocloud.cn
-127.0.0.1  miniapp.bilibili.com 
 127.0.0.1  live-trace.bilibili.com 
 #迅雷
 127.0.0.1  api-mcp.adsp.xunlei.com
@@ -494,7 +485,6 @@ tyrd1.networkbench.com
 # 快手系
 127.0.0.1  api.kwaizt.com
 127.0.0.1  apilog.app.acfun.cn
-127.0.0.1  umc.danuoyi.alicdn.com
 # 头条系
 127.0.0.1  is.snssdk.com
 127.0.0.1  log.snssdk.com
@@ -541,8 +531,6 @@ tyrd1.networkbench.com
 127.0.0.1  input.shouji.sogou.com
 127.0.0.1  smartad.10010.com
 127.0.0.1  analytics-api.smzdm.com
-127.0.0.1  cmplay.did.ijinshan.com
-127.0.0.1  analytics-api.smzdm.com
 127.0.0.1  serveraddr.service.kugou.com
 127.0.0.1  ntalker.com
 127.0.0.1  ta.pinduoduo.com
@@ -580,7 +568,6 @@ tyrd1.networkbench.com
 127.0.0.1  hdbaichuan.cn 
 127.0.0.1  audioadx.com
 127.0.0.1  owads.audioadx.com 
-127.0.0.1  ntalker.com 
 127.0.0.1  book-4geoe0dkee1796e3-1251611979.tcloudbaseapp.com
 127.0.0.1  koowo.com 
 127.0.0.1  sugs.m.sm.cn 
@@ -645,7 +632,6 @@ tyrd1.networkbench.com
 127.0.0.1  pcs-op.douyucdn.cn
 127.0.0.1  cs-op.douyucdn.cn 
 127.0.0.1  sub.ykimg.com
-127.0.0.1  trafficjunky.net
 127.0.0.1  api.ktplay.com
 127.0.0.1  ads-sdk.upltv.com
 127.0.0.1  collector.githubapp.com
@@ -770,7 +756,6 @@ tyrd1.networkbench.com
 127.0.0.1  log.qchannel03.cn
 127.0.0.1  ssl.qchannel03.cn
 127.0.0.1  truth.qchannel03.cn
-127.0.0.1  tobapplog.ctobsnssdk.com
 127.0.0.1  api.moblink.mob.com
 127.0.0.1  mob.com
 127.0.0.1  sdk.push.mob.com
