@@ -5,7 +5,7 @@
 127.0.0.1  config.unityads.unitychina.cn 
 127.0.0.1  8le8le.com 
 127.0.0.1  monitor.ads.8le8le.com
-127.0.0.1  ghb.adtelligent.com 
+127.0.0.1  ghb.adtelligent.com
 # PUSH/TRACK
 127.0.0.1  play.googleapis.com 
 127.0.0.1  jpush.cn
@@ -15,6 +15,9 @@
 127.0.0.1  gd-stats.jpush.cn
 127.0.0.1  config.jpush.cn
 127.0.0.1  ce3e75d5.jpush.cn
+127.0.0.1  tsis.jpush.cn
+127.0.0.1  stats.jpush.cn
+127.0.0.1  pushstyle.jpush.cn
 127.0.0.1  errlog.umeng.com 
 127.0.0.1  uop.umeng.com 
 127.0.0.1  sec.umeng.com
@@ -26,6 +29,10 @@
 127.0.0.1  aaid.umeng.com 
 127.0.0.1  ai.login.umeng.com 
 127.0.0.1  dsp.ads.umeng.com
+127.0.0.1  utoken.umeng.com
+127.0.0.1  umeng.com.gds.alibabadns.com
+127.0.0.1  umengjmacs.m.taobao.com
+127.0.0.1  errnewlog.umeng.com
 127.0.0.1  flurry.com
 127.0.0.1  cfg.flurry.com
 127.0.0.1  data.flurry.com
@@ -86,6 +93,12 @@
 127.0.0.1  device-api.urbanairship.com 
 127.0.0.1  ip-api.com
 127.0.0.1  umini.shujupie.com
+127.0.0.1  sf-static.sensorsdata.cn
+127.0.0.1  rayjump.com
+127.0.0.1  lazy.rayjump.com
+127.0.0.1  check.rayjump.com
+127.0.0.1  policy.rayjump.com
+127.0.0.1  configure.rayjump.com
 # 百度
 127.0.0.1  sp1.baidu.com 
 127.0.0.1  t7.baidu.com
@@ -125,6 +138,8 @@
 127.0.0.1  dlswbr.baidu.com
 127.0.0.1  tcbox.baidu.com
 127.0.0.1  wkclick.baidu.com
+127.0.0.1  sfp.safe.baidu.com
+127.0.0.1  itsdata.map.baidu.com
 # 阿里 
 127.0.0.1  zconfig.alibabausercontent.com
 127.0.0.1  acs4baichuan.m.taobao.com
@@ -144,6 +159,7 @@
 127.0.0.1  gm.mmstat.com
 127.0.0.1  log.mmstat.com
 127.0.0.1  ws.mmstat.com
+127.0.0.1  s-gm.mmstat.com
 127.0.0.1  tanx.com
 127.0.0.1  ifs.tanx.com
 127.0.0.1  ifsk2.tanx.com
@@ -165,6 +181,17 @@
 127.0.0.1  performance.cn-hangzhou.log.aliyuncs.com
 127.0.0.1  ali-ctf.cn-hangzhou.log.aliyuncs.com
 127.0.0.1  threehours-front.cn-zhangjiakou-2.log.aliyuncs.com
+127.0.0.1  yinge.cn-hangzhou.log.aliyuncs.com
+127.0.0.1  cainiao-app-logs.cn-zhangjiakou.dualstack.log.aliyuncs.com
+127.0.0.1  cainiao-app-logs.cn-zhangjiakou.dualstack.log.aliyuncs.com
+127.0.0.1  cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com
+127.0.0.1  com-bbqk-el.cn-beijing.log.aliyuncs.com
+127.0.0.1  fenbi-android.cn-beijing.log.aliyuncs.com
+127.0.0.1  nbnetflow-reply-log.cn-wulanchabu.dualstack.log.aliyuncs.com
+127.0.0.1  nbnetflow-reply-log.cn-wulanchabu.log.aliyuncs.com
+127.0.0.1  report-user-online-event.cn-wulanchabu.dualstack.log.aliyuncs.com
+127.0.0.1  srs-frontend-log.cn-shanghai.log.aliyuncs.com
+127.0.0.1  wj-applog-prod-10001-sls.cn-shanghai.log.aliyuncs.com
 127.0.0.1  tmge.alicdn.com
 127.0.0.1  nbsdk-baichuan.alicdn.com
 127.0.0.1  wvcfg.alicdn.com
@@ -197,6 +224,8 @@
 127.0.0.1  fourier.alibaba.com 
 127.0.0.1  baichuan-sdk.alicdn.com
 127.0.0.1  abtest.alibaba.com
+127.0.0.1  guide-acs.m.taobao.com
+127.0.0.1  tce.alicdn.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
@@ -238,6 +267,7 @@
 127.0.0.1  cmshow.gtimg.cn
 127.0.0.1  pgdt.gtimg.cn
 127.0.0.1  midas.gtimg.cn
+127.0.0.1  tianshu.gtimg.cn
 127.0.0.1  tools.3g.qq.com
 127.0.0.1  qappcenterv6.3g.qq.com
 127.0.0.1  masdkv6.3g.qq.com
@@ -283,6 +313,7 @@
 127.0.0.1  active-appmedia.gdt.qq.com 
 127.0.0.1  ugdtimg.com
 127.0.0.1  free-pgdt.ugdtimg.com 
+127.0.0.1  qzs.gdtimg.com
 127.0.0.1  tdid.m.qq.com 
 127.0.0.1  tracker-01.qvb.qcloud.com
 127.0.0.1  iwx.mail.qq.com 
@@ -297,6 +328,10 @@
 127.0.0.1  free-c2.gdt.qq.com
 127.0.0.1  guid.tpns.tencent.com
 127.0.0.1  log.tpns.tencent.com
+127.0.0.1  xsweb.gdt.qq.com
+127.0.0.1  cfg.imtt.qq.com
+127.0.0.1  h5.gdt.qq.com
+127.0.0.1  report.qqweb.qq.com
 # 京东
 127.0.0.1  wl.jd.com
 127.0.0.1  cc.m.jd.com
@@ -313,6 +348,10 @@
 127.0.0.1  orbit.jd.com
 127.0.0.1  mercury.jd.com
 127.0.0.1  dgstatic.jd.com
+127.0.0.1  knicks.jd.com
+127.0.0.1  wx.qlogo.cn
+127.0.0.1  thirdwx.qlogo.cn
+127.0.0.1  q.qlogo.cn
 # 美团
 127.0.0.1  report.meituan.com
 127.0.0.1  analytics.meituan.net
@@ -334,6 +373,7 @@
 127.0.0.1  lbs.netease.im
 127.0.0.1  hubble.netease.com
 127.0.0.1  mam6.netease.com
+127.0.0.1  api.iplay.163.com
 # 小米 
 127.0.0.1  api-analytics.huami.com
 127.0.0.1  app-analytics-cn.huami.com
@@ -397,7 +437,11 @@
 127.0.0.1  t.track.ad.xiaomi.com
 127.0.0.1  hot.browser.miui.com 
 127.0.0.1  ccc.sys.miui.com
+127.0.0.1  c3-cache.browser.miui.com
+127.0.0.1  r.browser.miui.com
 #爱奇艺
+127.0.0.1  msg.qy.net
+127.0.0.1  msgv6.qy.net
 127.0.0.1  act.vip.iqiyi.com
 127.0.0.1  subscription.iqiyi.com
 127.0.0.1  search.video.iqiyi.com
@@ -407,7 +451,6 @@
 127.0.0.1  sns-paopao.iqiyi.com
 127.0.0.1  cs-feige.iqiyi.com
 127.0.0.1  time.video.iqiyi.com
-127.0.0.1  msg.qy.net
 127.0.0.1  inter.iqiyi.com 
 127.0.0.1  baiducdncmn1.inter.iqiyi.com
 127.0.0.1  baiducdncmn2.inter.iqiyi.com 
@@ -418,6 +461,9 @@
 127.0.0.1  monitor.vip.iqiyi.com
 127.0.0.1  ouma-api.iqiyi.com
 127.0.0.1  resource.cupid.iqiyi.com
+127.0.0.1  nl-rcdiqiyi.com
+127.0.0.1  data.video.iqiyi.com
+127.0.0.1  cmts.iqiyi.com
 #金山
 127.0.0.1  behacdn.ksmobile.net
 127.0.0.1  cfg.cml.ksmobile.com
@@ -469,6 +515,7 @@
 # UC
 127.0.0.1  applog.uc.cn
 127.0.0.1  image.uczzd.cn
+127.0.0.1  iflow.uczzd.com
 #新浪
 127.0.0.1  ad.us.sinaimg.cn
 127.0.0.1  dns.weibo.cn
@@ -505,6 +552,12 @@
 127.0.0.1  mcs.ctobsnssdk.com
 127.0.0.1  ug.snssdk.com 
 127.0.0.1  tbm.snssdk.com
+127.0.0.1  mon.isnssdk.com
+127.0.0.1  ib.snssdk.com
+127.0.0.1  toblog-alink.ctobsnssdk.com
+127.0.0.1  mercury-sdk.snssdk.com
+127.0.0.1  dm-hl.toutiao.com
+127.0.0.1  dm-lq.toutiao.com
 #国内
 127.0.0.1  yyzyupdate.ztgame.com.cn
 127.0.0.1  zhihu-web-analytics.zhihu.com
@@ -534,6 +587,7 @@
 127.0.0.1  serveraddr.service.kugou.com
 127.0.0.1  ntalker.com
 127.0.0.1  ta.pinduoduo.com
+127.0.0.1  api-quic.pinduoduo.com
 127.0.0.1  worldwide.sogou.com
 127.0.0.1  register.appsflyer.com
 127.0.0.1  conversions.appsflyer.com
@@ -565,6 +619,8 @@
 127.0.0.1  ykad-gateway.youku.com
 127.0.0.1  yk-ssp.ad.youku.com
 127.0.0.1  ems.youku.com
+127.0.0.1  un-acs.youku.com
+127.0.0.1  sealine.youku.com
 127.0.0.1  hdbaichuan.cn 
 127.0.0.1  audioadx.com
 127.0.0.1  owads.audioadx.com 
@@ -576,6 +632,7 @@
 127.0.0.1  track.hujiang.com 
 127.0.0.1  trackcommon.hujiang.com
 127.0.0.1  dualstack-logs.amap.com
+127.0.0.1  logs.amap.com
 127.0.0.1  ads.api.lerist.cc
 127.0.0.1  zlink6.com
 127.0.0.1  s.zlink6.com
@@ -586,7 +643,6 @@
 127.0.0.1  api.afdback.ppsimg.com
 127.0.0.1  assets.giocdn.com
 127.0.0.1  btrace.ysp.cctv.cn
-127.0.0.1  cdn-api-verify.mob.com
 127.0.0.1  count.hzbxm.com
 127.0.0.1  cx.da.mgtv.com
 127.0.0.1  dj.1688.com
@@ -596,12 +652,14 @@
 127.0.0.1  ipv4.shuzilm.cn
 127.0.0.1  leads.autohome.com.cn
 127.0.0.1  m.irs01.com
+127.0.0.1  v.irs01.com
 127.0.0.1  mtrace.ysp.cctv.cn
 127.0.0.1  nim.qiyukf.com
 127.0.0.1  open.e.kuaishou.com
 127.0.0.1  sdk.api.bjshcw.com
 127.0.0.1  stat2.openinstall.io
 127.0.0.1  task.hzbxm.com
+127.0.0.1  btrace.ysp.cctv.cn
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
@@ -635,6 +693,7 @@
 127.0.0.1  api.ktplay.com
 127.0.0.1  ads-sdk.upltv.com
 127.0.0.1  collector.githubapp.com
+127.0.0.1  collector.github.com
 127.0.0.1  trafficjunky.net
 127.0.0.1  hw-cdn.trafficjunky.net
 127.0.0.1  dig.bdurl.net
@@ -688,7 +747,23 @@
 127.0.0.1  po.funshion.com
 127.0.0.1  pub.funshion.com 
 127.0.0.1  sngdia.imtmp.net 
-127.0.0.1  imtmp.net 
+127.0.0.1  imtmp.net
+127.0.0.1  icdn4.buysellads.net
+127.0.0.1  icmp.emarbox.com
+127.0.0.1  icrystalapp.miguvideo.com
+127.0.0.1  ier4.javase.top
+127.0.0.1  ilog3-misc-lf.amemv.com
+127.0.0.1  ilog5-misc-lf.amemv.com
+127.0.0.1  imipstatic.sm-tc.cn
+127.0.0.1  imm4.365dmp.com
+127.0.0.1  inews-log.lsttnews.com
+127.0.0.1  iretrieval-bd.gotadd.cn
+127.0.0.1  ishared.lc-cn-n1-shared.com
+127.0.0.1  isqdd.myapp.com
+127.0.0.1  istatic.yximgs.com
+127.0.0.1  iv3-opensdksv.onewsvod.com
+127.0.0.1  iv6-opensdksv.onewsvod.com
+127.0.0.1  izm.sm-tc.cn
 # 天气
 127.0.0.1  mparticle.com
 127.0.0.1  nativesdks.mparticle.com
@@ -756,14 +831,28 @@
 127.0.0.1  log.qchannel03.cn
 127.0.0.1  ssl.qchannel03.cn
 127.0.0.1  truth.qchannel03.cn
+127.0.0.1  d.qchannel03.cn
 127.0.0.1  api.moblink.mob.com
 127.0.0.1  mob.com
 127.0.0.1  sdk.push.mob.com
 127.0.0.1  api.fc.mob.com
-127.0.0.1  api.fd.mob.com 
+127.0.0.1  api.fd.mob.com
+127.0.0.1  cdn-api-verify.mob.com
+127.0.0.1  log-verify.mob.com
 # 科大讯飞
 127.0.0.1  logconf.iflytek.com 
 127.0.0.1  log.voicecloud.cn 
 # 华为
 127.0.0.1  data.hicloud.com 
 127.0.0.1  metrics1.data.hicloud.com
+127.0.0.1  datacollector-drcn.dt.hicloud.com
+# uc
+127.0.0.1  pdds.ucweb.com
+127.0.0.1  uc.ucweb.com
+127.0.0.1  ucweb.com
+127.0.0.1  vs10.bj2cm.u3.ucweb.com
+127.0.0.1  vs8.bj2cm.u3.ucweb.com
+# 菜鸟
+127.0.0.1  adashx.ut.cainiao.com
+127.0.0.1  h-adashx.ut.cainiao.com
+127.0.0.1  nbnest-admonitor.cainiao.com
