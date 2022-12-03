@@ -183,7 +183,6 @@
 127.0.0.1  threehours-front.cn-zhangjiakou-2.log.aliyuncs.com
 127.0.0.1  yinge.cn-hangzhou.log.aliyuncs.com
 127.0.0.1  cainiao-app-logs.cn-zhangjiakou.dualstack.log.aliyuncs.com
-127.0.0.1  cainiao-app-logs.cn-zhangjiakou.dualstack.log.aliyuncs.com
 127.0.0.1  cainiao-app-logs.cn-zhangjiakou.log.aliyuncs.com
 127.0.0.1  com-bbqk-el.cn-beijing.log.aliyuncs.com
 127.0.0.1  fenbi-android.cn-beijing.log.aliyuncs.com
@@ -329,7 +328,6 @@
 127.0.0.1  guid.tpns.tencent.com
 127.0.0.1  log.tpns.tencent.com
 127.0.0.1  xsweb.gdt.qq.com
-127.0.0.1  cfg.imtt.qq.com
 127.0.0.1  h5.gdt.qq.com
 127.0.0.1  report.qqweb.qq.com
 # 京东
@@ -348,7 +346,6 @@
 127.0.0.1  orbit.jd.com
 127.0.0.1  mercury.jd.com
 127.0.0.1  dgstatic.jd.com
-127.0.0.1  knicks.jd.com
 127.0.0.1  wx.qlogo.cn
 127.0.0.1  thirdwx.qlogo.cn
 127.0.0.1  q.qlogo.cn
@@ -438,7 +435,6 @@
 127.0.0.1  hot.browser.miui.com 
 127.0.0.1  ccc.sys.miui.com
 127.0.0.1  c3-cache.browser.miui.com
-127.0.0.1  r.browser.miui.com
 #爱奇艺
 127.0.0.1  msg.qy.net
 127.0.0.1  msgv6.qy.net
@@ -462,7 +458,6 @@
 127.0.0.1  ouma-api.iqiyi.com
 127.0.0.1  resource.cupid.iqiyi.com
 127.0.0.1  nl-rcdiqiyi.com
-127.0.0.1  data.video.iqiyi.com
 127.0.0.1  cmts.iqiyi.com
 #金山
 127.0.0.1  behacdn.ksmobile.net
@@ -659,7 +654,6 @@
 127.0.0.1  sdk.api.bjshcw.com
 127.0.0.1  stat2.openinstall.io
 127.0.0.1  task.hzbxm.com
-127.0.0.1  btrace.ysp.cctv.cn
 # 其他
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
@@ -682,7 +676,6 @@
 127.0.0.1  id6.me
 127.0.0.1  img.srxjz.cn
 127.0.0.1  img.wusnz.cn
-127.0.0.1  logs.amap.com
 127.0.0.1  mobilelog.upqzfile.com
 127.0.0.1  mxpnl.com
 127.0.0.1  mythings.com
