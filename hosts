@@ -552,6 +552,14 @@
 127.0.0.1  mercury-sdk.snssdk.com
 127.0.0.1  dm-hl.toutiao.com
 127.0.0.1  dm-lq.toutiao.com
+#测试
+127.0.0.1  tnc3-aliec2.zijieapi.com
+127.0.0.1  tnc3-alisc1.zijieapi.com
+127.0.0.1  tnc3-bjlgy.zijieapi.com
+127.0.0.1  v6-api-d.dutils.com
+127.0.0.1  v6-api-fc.dutils.com
+127.0.0.1  v6-devs-data.dutils.com
+127.0.0.1  v6-m.mpl.dutils.com
 #国内
 127.0.0.1  yyzyupdate.ztgame.com.cn
 127.0.0.1  zhihu-web-analytics.zhihu.com
