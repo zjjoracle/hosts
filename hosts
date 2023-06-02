@@ -560,6 +560,14 @@
 127.0.0.1  v6-api-fc.dutils.com
 127.0.0.1  v6-devs-data.dutils.com
 127.0.0.1  v6-m.mpl.dutils.com
+127.0.0.1  api-d.dutils.com
+127.0.0.1  api-exc.dutils.com
+127.0.0.1  devs-data.dutils.com
+127.0.0.1  api-fc.dutils.com
+127.0.0.1  m.mpl.dutils.com
+127.0.0.1  path3.xtracloud.net
+127.0.0.1  path2.xtracloud.net
+127.0.0.1  path1.xtracloud.net
 #国内
 127.0.0.1  yyzyupdate.ztgame.com.cn
 127.0.0.1  zhihu-web-analytics.zhihu.com
@@ -856,3 +864,7 @@
 127.0.0.1  adashx.ut.cainiao.com
 127.0.0.1  h-adashx.ut.cainiao.com
 127.0.0.1  nbnest-admonitor.cainiao.com
+# 小红书
+127.0.0.1  referee.xiaohongshu.com
+127.0.0.1  apppush-sh5.xiaohongshu.com
+127.0.0.1  ads-video-al.xhscdn.com
