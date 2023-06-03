@@ -868,3 +868,9 @@
 127.0.0.1  referee.xiaohongshu.com
 127.0.0.1  apppush-sh5.xiaohongshu.com
 127.0.0.1  ads-video-al.xhscdn.com
+# 华为
+127.0.0.1  grs.dbankcloud.com
+127.0.0.1  grs.dbankcloud.eu
+127.0.0.1  grs.dbankcloud.cn
+127.0.0.1  grs.platform.dbankcloud.ru
+127.0.0.1  grs.dbankcloud.asia
