@@ -224,6 +224,7 @@
 127.0.0.1  baichuan-sdk.alicdn.com
 127.0.0.1  abtest.alibaba.com
 127.0.0.1  tce.alicdn.com
+127.0.0.1  gaode-jmacs.m.taobao.com
 # 腾讯 
 127.0.0.1  brace.qq.com
 127.0.0.1  btrace.qq.com
