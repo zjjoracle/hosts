@@ -554,6 +554,7 @@
 127.0.0.1  mercury-sdk.snssdk.com
 127.0.0.1  dm-hl.toutiao.com
 127.0.0.1  dm-lq.toutiao.com
+127.0.0.1  gromore.pangolin-sdk-toutiao.com
 #测试
 127.0.0.1  tnc3-aliec2.zijieapi.com
 127.0.0.1  tnc3-alisc1.zijieapi.com
@@ -672,6 +673,7 @@
 127.0.0.1  stat2.openinstall.io
 127.0.0.1  task.hzbxm.com
 # 其他
+127.0.0.1  adashx.ut.hzshudian.com
 127.0.0.1  005.tv
 127.0.0.1  advertising.com
 127.0.0.1  anquan.org
