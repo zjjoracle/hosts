@@ -191,6 +191,7 @@
 127.0.0.1  report-user-online-event.cn-wulanchabu.dualstack.log.aliyuncs.com
 127.0.0.1  srs-frontend-log.cn-shanghai.log.aliyuncs.com
 127.0.0.1  wj-applog-prod-10001-sls.cn-shanghai.log.aliyuncs.com
+127.0.0.1  wolai-dingtalk.cn-zhangjiakou.log.aliyuncs.com
 127.0.0.1  tmge.alicdn.com
 127.0.0.1  nbsdk-baichuan.alicdn.com
 127.0.0.1  wvcfg.alicdn.com
@@ -808,6 +809,9 @@
 127.0.0.1  kepler.51y5.net
 127.0.0.1  app.51y5.net
 127.0.0.1  openap-alps.51y5.net
+127.0.0.1  alps.51y5.net
+127.0.0.1  appinvoke.51y5.net
+127.0.0.1  img01.51y5.net
 # 运营商
 127.0.0.1  log1.cmpassport.com
 127.0.0.1  wap.cmpassport.com
@@ -872,6 +876,7 @@
 127.0.0.1  referee.xiaohongshu.com
 127.0.0.1  apppush-sh5.xiaohongshu.com
 127.0.0.1  ads-video-al.xhscdn.com
+127.0.0.1  crash.xiaohongshu.com
 # 华为
 127.0.0.1  grs.dbankcloud.com
 127.0.0.1  grs.dbankcloud.eu
